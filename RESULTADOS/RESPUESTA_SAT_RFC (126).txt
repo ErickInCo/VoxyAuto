@@ -1,0 +1,1049 @@
+1|LODA720508NS5|ALMA DELIA LOZANO DELGADILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+2|LOFM830116KW6|MARCEL YAZMIN LLOVERA FERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+3|LOGF821031NG8|FELIPE LOPEZ GUEVARA|87800|El Código Postal no coincide con el registrado en el RFC.
+4|LOGG760623SS9|GUADALUPE ALCIDE LOPEZ GIL|87800|El Código Postal no coincide con el registrado en el RFC.
+5|LOGJ911031KG9|JUAN JESUS LOPEZ GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+6|LOGM680429QY1|MARIBEL LOPEZ GUERRA|87800|El Código Postal no coincide con el registrado en el RFC.
+7|LOLA821120C48|ANGEL IVAN LOPEZ LEIJA|87800|El Código Postal no coincide con el registrado en el RFC.
+8|LOLE7102198Y4|ENRIQUE LOYDE LAMAS|87800|El Código Postal no coincide con el registrado en el RFC.
+9|LOLN701112NV9|NILA MARIA DE GUADALUPE LOPEZ LARA|87800|El Código Postal no coincide con el registrado en el RFC.
+10|LOLN790222S79|NACHELI MARGARITA LOMAS LUNA|87800|El Código Postal no coincide con el registrado en el RFC.
+11|LOMG701212DB2|MARIA GUADALUPE LOPEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+12|LOMM740830RBA|MYRTA FABIOLA LOPEZ MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+13|LONE870902KC3|EDGAR LONGORIA NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+14|LONV670410CBA|VICENTE LOPEZ NIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+15|LOOJ910804PL9|JUAN JESUS LOPEZ ONTIVEROS|87800|El Código Postal no coincide con el registrado en el RFC.
+16|LOPO640124PTA|OSCAR LOZANO PAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+17|LOPP700214L41|PEDRO LOPEZ PULIDO|87800|El Código Postal no coincide con el registrado en el RFC.
+18|LOPR781021SB1|ROBERTO CARLOS LOPEZ PUGA|87800|El Código Postal no coincide con el registrado en el RFC.
+19|LOQG930412CX0|GIOVANNI JEANCARLO LOPEZ QUINTERO|87800|El Código Postal no coincide con el registrado en el RFC.
+20|LORA881227NI8|ANA KAREN LOPEZ RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+21|LORJ820817B70|JUANA MARIA LOPEZ RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+22|LORJ830524IL1|JESSICA GRACIELA LOPEZ REYNA|87800|El Código Postal no coincide con el registrado en el RFC.
+23|LORL7112229J1|MARIA LETICIA LOERA RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+24|LORM8507188Q5|MILTON SANTIAGO LOPEZ RUIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+25|LORO770207GX2|ODILIA YANETH LOPEZ RIOS|87800|El Código Postal no coincide con el registrado en el RFC.
+26|LOSR851224NA1|ROSA STEPHANIA LOPEZ SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+27|LOSS650613Q68|SONIA MARGARITA LOPEZ SALAZAR|87800|El Código Postal no coincide con el registrado en el RFC.
+28|LOTC5405066G6|CARLOS LOPEZ TERAN|87800|El Código Postal no coincide con el registrado en el RFC.
+29|LOVF6507296U5|FELIX LOPEZ VILLANUEVA|87800|El Código Postal no coincide con el registrado en el RFC.
+30|LOZC861003CJ7|CONSUELO ELIZABETH LOPEZ ZAPATA|87800|El Código Postal no coincide con el registrado en el RFC.
+31|LUAD900404AN7|DENNIS ZENON LUNA AGUILAR|87800|El Código Postal no coincide con el registrado en el RFC.
+32|LUAI8308115F0|ISAURA LUNA ALVAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+33|LUBY861114MN4|YESSIKA LIZETH LUNA BARRON|87800|El Código Postal no coincide con el registrado en el RFC.
+34|LUCM670901QC6|MA. EUGENIA LUNA CONCHA|87800|El Código Postal no coincide con el registrado en el RFC.
+35|LUCM7410068F0|MONICA ABIGAIL LUNA CANTU|87800|El Código Postal no coincide con el registrado en el RFC.
+36|LUEN750219968|NORA LIDIA LUNA ESPERICUETA|87800|El Código Postal no coincide con el registrado en el RFC.
+37|LUHI8410286B5|IRENE ANALY LUNA HERRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+38|LUME750312Q36|ESTHER YURIRIA LUNA MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+39|LUOJ801221ER7|JUANA GEORGINA LUNA OLALDE|87800|El Código Postal no coincide con el registrado en el RFC.
+40|LUPM7508304T8|MONICA LUNA PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+41|LUSI890508577|ILSE ADILENE LUNA SALINAS|87800|El Código Postal no coincide con el registrado en el RFC.
+42|MAAC770216M74|MARIA DEL CARMEN MARTINEZ AMAYA|87800|El Código Postal no coincide con el registrado en el RFC.
+43|MAAC801129372|CAROLINA LIZETH MARTINEZ ALVARADO|87800|El Código Postal no coincide con el registrado en el RFC.
+44|MAAL7208094S9|LILIA DEL CARMEN MARTINEZ DEL ANGEL|87800|El Código Postal no coincide con el registrado en el RFC.
+45|MAAL821105KB6|LUIS CARLOS MALIBRAN AYALA|87800|El Código Postal no coincide con el registrado en el RFC.
+46|MAAM880606RN5|MAURICIO ANTONIO MARTINEZ AVALOS|87800|El Código Postal no coincide con el registrado en el RFC.
+47|MABN680113K69|NORMA ESTHER MARTINEZ BARRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+48|MABP760520SK2|PERLA MARTINEZ BADILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+49|MABR760219LHA|MARIA DEL REFUGIO MARTINEZ BADILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+50|MABY8411209R2|YARALIYN MARTINEZ BARRON|87800|El Código Postal no coincide con el registrado en el RFC.
+51|MACA7603081XA|ADRIANA MARTINEZ CHAPULA|87800|El Código Postal no coincide con el registrado en el RFC.
+52|MACI951229H10|IRISANDY YARIZETH MARTINEZ CORDOVA|87800|El Código Postal no coincide con el registrado en el RFC.
+53|MACJ870112II3|JUANA GABRIELA MARTINEZ CASTELLO|87800|El Código Postal no coincide con el registrado en el RFC.
+54|MACJ8706128I3|JUAN CARLOS MARTINEZ CAMACHO|87800|El Código Postal no coincide con el registrado en el RFC.
+55|MACR7909198F9|ROSALBA CLAUDETT MARTINEZ CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+56|MACU8711219A6|ULISES MARTINEZ CHAVEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+57|MAEJ841012G37|JESUS IVAN MARTINEZ ESCOBAR|87800|El Código Postal no coincide con el registrado en el RFC.
+58|MAEL680427BS4|LUIS ENRIQUE MAGAÃ?A ENCINIA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+59|MAEY8902262T0|YURIE MARTINEZ ESPINOSA|87800|El Código Postal no coincide con el registrado en el RFC.
+60|MAFI7602026H1|ISRAEL MARTINEZ FRANCO|87800|El Código Postal no coincide con el registrado en el RFC.
+61|MAGB760318361|BERTHA ALICIA MADRIGAL GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+62|MAGC850904481|CATALINA MARTINEZ GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+63|MAGC9603203J7|CINTHIA ARAHI MANCILLA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+64|MAGD580524N94|DONATO GUADALUPE MARROQUIN GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+65|MAGD890404HI7|DANIEL MARTINEZ GALVAN|87800|El Código Postal no coincide con el registrado en el RFC.
+66|MAGD9909205IA|DALIA SOFIA MARTINEZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+67|MAGJ790629Q67|JUAN PABLO MARQUEZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+68|MAGL660526N66|JOSE LUIS MARTINEZ GUEVARA|87800|El Código Postal no coincide con el registrado en el RFC.
+69|MAGM810524LK4|MIGUEL ANGEL MARTINEZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+70|MAGM8610227U4|MIGUEL ANGEL MATA GAYTAN|87800|El Código Postal no coincide con el registrado en el RFC.
+71|MAGS610522GV6|MARIA DE SAN JUAN MARTINEZ GAMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+72|MAGS820810EH0|SAUL ALBERTO MACCLESH DEL PINO GUTIERREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+73|MAGS861208DJ2|SANJUANITA CLARIBEL MARTINEZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+74|MAGT880201T41|THALIA XIMENA MARTINEZ GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+75|MAHC940810L39|CLAUDIA MARTINEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+76|MAHJ840725IU3|JESUS ALEJANDRO MANSILLA HUERTA|87800|El Código Postal no coincide con el registrado en el RFC.
+77|MAHJ860403961|JORGE ANTONIO MARTINEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+78|MAHJ870925ELA|JULIO CESAR MARTINEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+79|MAHN871216460|NANCY GUADALUPE MARTINEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+80|MALF9108116H5|FRANCISCO JAVIER MALDONADO LEAL|87800|El Código Postal no coincide con el registrado en el RFC.
+81|MALH860828HC8|HORACIO MAGAÃ?A LUNA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+82|MALP630524RPA|PEDRO MARTINEZ LORA|87800|El Código Postal no coincide con el registrado en el RFC.
+83|MALY8802063GA|YEIMI MARQUEZ LIMON|87800|El Código Postal no coincide con el registrado en el RFC.
+84|MAMB780630U13|BRENDA YARA MARTINEZ MORON|87800|El Código Postal no coincide con el registrado en el RFC.
+85|MAMC740116TK6|CRUZ SELENE MAR MAR|87800|El Código Postal no coincide con el registrado en el RFC.
+86|MAMG800705RM8|JOSE GUADALUPE MARTINEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+87|MAML871202Q14|JOSE LUIS MAR MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+88|MAMM531101K33|MARIANO MARTINEZ MARROQUIN|87800|El Código Postal no coincide con el registrado en el RFC.
+89|MAMM7406308G8|MYRNA MARTINEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+90|MAMM860729CX8|MIGUEL ANTONIO MARTINEZ MORA|87800|El Código Postal no coincide con el registrado en el RFC.
+91|MAMN880424LP9|NEREYDA YANETH MALDONADO MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+92|MAMX810923736|EVELINA MARTINEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+93|MAMX860209CX5|OSCAR JASIEL MARTINEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+94|MANA760207H15|ALEJANDRO MAGALLON NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+95|MANA9210111F8|JOSE ALBERTO MALDONADO NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+96|MANM801119TK9|MARCO ANDRES MARTINEZ NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+97|MANM841220AH2|MARIANA LIZETTE MARTINEZ NEVE|87800|El Código Postal no coincide con el registrado en el RFC.
+98|MANT7402186Y8|TOMAS MARTINEZ NAVARRO|87800|El Código Postal no coincide con el registrado en el RFC.
+99|MAOC830622DV2|CYNTHIA MARTINEZ OROPEZA|87800|El Código Postal no coincide con el registrado en el RFC.
+100|MAOE6909022X6|ELSA ARACELI MALTOS OROZCO|87800|El Código Postal no coincide con el registrado en el RFC.
+101|MAOF931106995|FRANCISCO ANTONIO MARTINEZ OLVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+102|MAOL920723PA5|LAETIA VIRIDIANA MARTINEZ ORTEGA|87800|El Código Postal no coincide con el registrado en el RFC.
+103|MAPA660516C1A|ALFONSO MARTINEZ PERALES|87800|El Código Postal no coincide con el registrado en el RFC.
+104|MAPA7204197E5|ANA MARIA MARQUEZ PICAZO|87800|El Código Postal no coincide con el registrado en el RFC.
+105|MAPA7401094A7|ALEJANDRO EMILIO MARTINEZ PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+106|MAPA851211UP1|ANNABEL MARTINEZ PUENTE|87800|El Código Postal no coincide con el registrado en el RFC.
+107|MAPB880413469|BEATRIZ ADRIANA MALDONADO PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+108|MAPE851116CE6|ERNESTO MARTINEZ PONCE|87800|El Código Postal no coincide con el registrado en el RFC.
+109|MARA8711258I0|ADRIAN MANZANARES RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+110|MARA890830QF1|ARTURO MARTINEZ REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+111|MARB7612034L3|BLANCA NINFA MARTINEZ RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+112|MARC900829TH0|CARLOS KARIM MARTINEZ ROCHA|87800|El Código Postal no coincide con el registrado en el RFC.
+113|MART6008019C6|MARIA TERESA MARTINEZ RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+114|MASA6410057J4|ANA DELIA MATA SALAZAR|87800|El Código Postal no coincide con el registrado en el RFC.
+115|MASA850719SF7|ALEJANDRA ISABEL MACIAS SERRALDE|87800|El Código Postal no coincide con el registrado en el RFC.
+116|MASE790902TK7|ELIUD MANDUJANO SANTANA|87800|El Código Postal no coincide con el registrado en el RFC.
+117|MASJ871201D22|JUAN DE DIOS MARTINEZ SOLIS|87800|El Código Postal no coincide con el registrado en el RFC.
+118|MASJ881009P99|JOSUE HIRAM MARTINEZ SANTOS|87800|El Código Postal no coincide con el registrado en el RFC.
+119|MASK891006272|KATYA MARISOL MARTINEZ SAENZ|87800|El Código Postal no coincide con el registrado en el RFC.
+120|MASM9007085N5|MAYRA NATHALY MALDONADO SILVA|87800|El Código Postal no coincide con el registrado en el RFC.
+121|MASP850712925|PEDRO IVAN MARTINEZ SALAS|87800|El Código Postal no coincide con el registrado en el RFC.
+122|MASV7312254UA|MARIA VICTORIA MACIAS SALAZAR|87800|El Código Postal no coincide con el registrado en el RFC.
+123|MASX721120JN6|XOCHITL YADHIRA MATUS SILVA|87800|El Código Postal no coincide con el registrado en el RFC.
+124|MATA810614S90|AGUSTIN MASCORRO TALIP|87800|El Código Postal no coincide con el registrado en el RFC.
+125|MAVA860411G24|ALEJANDRA DEL CARMEN MARTINEZ VALERO|87800|El Código Postal no coincide con el registrado en el RFC.
+126|MAVA881024JG6|ALEJANDRA LIZBETH MARTINEZ VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+127|MAVF940713QG6|FRIDA MARTINEZ VARGAS|87800|El Código Postal no coincide con el registrado en el RFC.
+128|MAVR781124PB5|ROSALINDA MACHUCA VINALAY|87800|El Código Postal no coincide con el registrado en el RFC.
+129|MAVT8101308P8|TANIA DENISSE MATA VILLAGOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+130|MAYJ8212301P8|JAVIER MARTINEZ YAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+131|MAZA750708DQ5|ADRIAN EDGARDO MAR ZALETA|87800|El Código Postal no coincide con el registrado en el RFC.
+132|MAZF611120GE9|FELIX MARTINEZ ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+133|MAZL9309108BA|LUCERO MIROSLAVA MARTINEZ ZACARIAS|87800|El Código Postal no coincide con el registrado en el RFC.
+134|MEAJ6907256W9|JUAN ALBERTO MELENDEZ ABUNDIS|87800|El Código Postal no coincide con el registrado en el RFC.
+135|MEAK8112236H9|KARLA YANETH MELENDEZ AVENDAÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+136|MEAL8002065M5|LUCIA MENDOZA ALARCON|87800|El Código Postal no coincide con el registrado en el RFC.
+137|MEBB860908EN0|BRENDA ARELI MENDOZA BASURTO|87800|El Código Postal no coincide con el registrado en el RFC.
+138|MEBF7602055M8|FELIPE DE JESUS MENDOZA BORREGO|87800|El Código Postal no coincide con el registrado en el RFC.
+139|MECD851222KBA|DULCE MARIA MEZQUITIC CERVANTES|87800|El Código Postal no coincide con el registrado en el RFC.
+140|MECJ7705178P0|JORGE EDUARDO MELENDEZ CASTAÃ?EDA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+141|MECJ830807424|JESUS ANTONIO MENDOZA CHAO|87800|El Código Postal no coincide con el registrado en el RFC.
+142|MEDR7309043B2|ROSALIA MEDINA DELGADO|87800|El Código Postal no coincide con el registrado en el RFC.
+143|MEEV921227KSA|VIRIDIANA MEDINA ESCOBAR|87800|El Código Postal no coincide con el registrado en el RFC.
+144|MEGA640327QN2|ALBA IRIS MENDOZA GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+145|MEGB8009102U7|BETZABEL MEDINA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+146|MEGC690716PB9|MARIA DEL CARMEN MENDOZA GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+147|MEGC860911QY5|CLAUDIA MARICELA MEJIA GUERRERO|87800|El Código Postal no coincide con el registrado en el RFC.
+148|MEGD7107103N2|DEYANIRA MENDEZ GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+149|MEGE620904R4A|EDUARDO MENDEZ GUERRA|87800|El Código Postal no coincide con el registrado en el RFC.
+150|MEGM810918QV0|MANUEL RAYMUNDO MEDRANO GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+151|MEGS880929BN8|SIPCI YUENUET MENDOZA GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+152|MEHC860711V49|CLAUDIA BEATRIZ MEDINA HERRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+153|MEHC881118K56|CARLOS JESUS MEDINA HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+154|MEHD8208118W6|DAMARIS MENDEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+155|MELA800107MU4|ANA MARIA MEDINA LIÃ?AN|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+156|MELG830528V45|GERMAN RIGOBERTO MENDOZA LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+157|MELR6607299S3|RAMON MERCADO LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+158|MEMC721111T64|CLAUDIA JULISSA MEJIA MENDOZA|87800|El Código Postal no coincide con el registrado en el RFC.
+159|MEMC731027ERA|CLARA IDALIA MEZQUITIC MELENDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+160|MEMJ650921IQA|JUANITA MEDRANO MORENO|87800|El Código Postal no coincide con el registrado en el RFC.
+161|MEML7311065B0|LIZA MAHALETH MENDOZA MONTAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+162|MEMM640916K26|MARIA MAGDALENA MENA MONTIEL|87800|El Código Postal no coincide con el registrado en el RFC.
+163|MEMM8302281E3|MERCEDES ESTHER MEJIA MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+164|MEMP780930P88|PAULINA MENDOZA MEDRANO|87800|El Código Postal no coincide con el registrado en el RFC.
+165|MEMR650314I46|RODOLFO MENESES MEDINA|87800|El Código Postal no coincide con el registrado en el RFC.
+166|MEMS5410097N4|SARA MEZA MEDINA|87800|El Código Postal no coincide con el registrado en el RFC.
+167|MEOE810227F44|ESTELA LIZETH MEDINA ORTEGA|87800|El Código Postal no coincide con el registrado en el RFC.
+168|MEOJ900124GM9|JAIR FRANCISCO MELO OSORIO|87800|El Código Postal no coincide con el registrado en el RFC.
+169|MEOL7105074P1|LESVIA ARODI MENDOZA ORTIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+170|MEPL900111DN2|LUIS FELIPE MERCADO PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+171|MEPS650118HT9|SONIA MERCADO PAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+172|MERF650902SF3|FRANCISCA MEDINA RUIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+173|MERG7408167Y3|GRISELDA MENDEZ RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+174|MERJ4811171N8|JAVIER MENDOZA RIVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+175|MERJ640820LB7|JUANA MARIA MEDINA RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+176|MERJ700713PF6|JAIME MENDEZ ROSAS|87800|El Código Postal no coincide con el registrado en el RFC.
+177|MERJ740308U33|JUAN MEJIA RESENDIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+178|MERJ870615R66|JHOANA LIZETH MEDELLIN ROSALES|87800|El Código Postal no coincide con el registrado en el RFC.
+179|MERS901127FL5|SILVIA ISABEL MEDELLIN REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+180|MESG840226SI4|MARIA GUADALUPE MENDEZ SEPULVEDA|87800|El Código Postal no coincide con el registrado en el RFC.
+181|MESM7702247C4|MARISOL MEDINA SALINAS|87800|El Código Postal no coincide con el registrado en el RFC.
+182|METJ920824N66|JULIO CESAR MEJIA TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+183|METM900505A36|JOSE MANUEL MENDEZ TREVIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+184|METN750727NG0|NORA PATRICIA MEDINA TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+185|MEVD8308064L8|DANAYARA LIZBETH MENDEZ VILLEGAS|87800|El Código Postal no coincide con el registrado en el RFC.
+186|MEYJ8709096B0|JUAN JOSE MENDEZ YAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+187|MICG580312A98|GLORIA ESTELA MIRELES CAMACHO|87800|El Código Postal no coincide con el registrado en el RFC.
+188|MIEJ930719973|JESUS JAVIER MIRELES ESCOBEDO|87800|El Código Postal no coincide con el registrado en el RFC.
+189|MIGG801022U14|GISELA MICHEL GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+190|MIHE820826JN9|MARIA ELIZABETH MIRANDA HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+191|MIHY950319UN6|YADIRA MIRANDA HINOJOSA|87800|El Código Postal no coincide con el registrado en el RFC.
+192|MIOO851123ER4|OSCAR ERNESTO MIRELES ORTIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+193|MIRD830829E80|DELIA AURORA MIRANDA REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+194|MISS810929821|MARIA SANJUANITA MIRANDA SALINAS|87800|El Código Postal no coincide con el registrado en el RFC.
+195|MOAA790824PG7|AUREA LILIANA MORALES ACOSTA|87800|El Código Postal no coincide con el registrado en el RFC.
+196|MOAA80060778A|ARTURO MORALES ADAME|87800|El Código Postal no coincide con el registrado en el RFC.
+197|MOAA960510DY9|ALMA YESENIA MORENO ALVAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+198|MOAL771001P24|LORENA MONSIVAIS ALDAPE|87800|El Código Postal no coincide con el registrado en el RFC.
+199|MOAM830911KV0|MAYRA IVETH MORIN AREVALO|87800|El Código Postal no coincide con el registrado en el RFC.
+200|MOAN8603061D5|NUBIA IZANAMI MORENO ALVAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+201|MOBL930203GG7|LILIAN REGINA MORENO BERNAL|87800|El Código Postal no coincide con el registrado en el RFC.
+202|MOCB871217V58|BIANEY GUADALUPE MONTALVO CARDENAS|87800|El Código Postal no coincide con el registrado en el RFC.
+203|MOCF600523P55|FELIPE FLORENCIO MONTEJANO CARRIZALES|87800|El Código Postal no coincide con el registrado en el RFC.
+204|MOCJ640116S49|JUAN ANTONIO MONTES CASTAÃ?ON|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+205|MOCJ79010214A|JESSICA MONROY CORNEJO|87800|El Código Postal no coincide con el registrado en el RFC.
+206|MOCL761215NB3|LUIS ALBERTO MORENO CORONA|87800|El Código Postal no coincide con el registrado en el RFC.
+207|MOCM671110FRA|MYRIAM ESMERALDA MORALES CADENA|87800|El Código Postal no coincide con el registrado en el RFC.
+208|MOCS801215KI1|MARIA SAIHRA MONTOYA CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+209|MOEA6308157S8|MA. DE LOS ANGELES MORENO ENRIQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+210|MOGF801001U60|FABIOLA MONTELONGO GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+211|MOGL841216I18|LILIANA AZUCETY MONTOYA GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+212|MOGM830428M43|MARIELA MORENO GALLEGOS|87800|El Código Postal no coincide con el registrado en el RFC.
+213|MOGN880224JT4|NANCY MORALES GUTIERREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+214|MOGS840224LC6|SILVESTRE MOCTEZUMA GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+215|MOHB8008229T3|BRENDA ROCIO MORALES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+216|MOHJ850702BD4|JAVIER ALBERTO MOMPAR HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+217|MOHJ930913UL2|JUAN MONTOYA HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+218|MOLD8007296Z2|DAVID MORALES LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+219|MOLK940719FE1|KATIA MOLINA DE LEON|87800|El Código Postal no coincide con el registrado en el RFC.
+220|MOLV850920HK4|VICENTE MONTALVO LIÃ?AN|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+221|MOMD831211AZ4|DAVID OSVALDO MONTER MALDONADO|87800|El Código Postal no coincide con el registrado en el RFC.
+222|MOMG710510H50|MARIA GUADALUPE MONTAÃ?O MORALES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+223|MOMJ830615223|JESUS ALBERTO MONTOYA MAGAÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+224|MOMJ870711DW7|JOSE MONCIVAIS MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+225|MONJ6706249D0|JUAN NEPHTALI MORALES NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+226|MOOG8512049Y0|GISSELA EDITH MORENO OCHOA|87800|El Código Postal no coincide con el registrado en el RFC.
+227|MOOJ800819UA6|JUAN URIEL MORALES OLVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+228|MOOL6301199V0|LUZ MARTINA MORENO OLIVARES|87800|El Código Postal no coincide con el registrado en el RFC.
+229|MOOL7009223UA|LETICIA MORALES ORDOÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+230|MOOM720125VE0|MANUEL CRISTOBAL MONTIEL ORDUÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+231|MOPA741204UW4|ARTURO MORENO PRADO|87800|El Código Postal no coincide con el registrado en el RFC.
+232|MOPA890521DT6|ADRIAN MONTALVO PADILLA|87800|El Código Postal no coincide con el registrado en el RFC.
+233|MOPE7410205W5|ELDA PATRICIA MORADO PARRAS|87800|El Código Postal no coincide con el registrado en el RFC.
+234|MORA850922689|ALEJANDRA FABIOLA MONTANTES RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+235|MORI830809S79|ISMAEL MORA RAZO|87800|El Código Postal no coincide con el registrado en el RFC.
+236|MORJ881008TZ9|JUAN ANGEL MORENO RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+237|MORK750530L98|KARINA MONTELLANO RAMOS|87800|El Código Postal no coincide con el registrado en el RFC.
+238|MORM780909US3|MAURA MONICA MORALES ROCHA|87800|El Código Postal no coincide con el registrado en el RFC.
+239|MOSA730606KF1|MARIA DE LOS ANGELES MORENO SOTO|87800|El Código Postal no coincide con el registrado en el RFC.
+240|MOSC771127HU1|CARLOS ALBERTO MORALES SOLIS|87800|El Código Postal no coincide con el registrado en el RFC.
+241|MOSE891228I72|ERICK GUADALUPE MONTELONGO SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+242|MOSM460629GL5|MARTHA DEL CARMEN MORLET SANTIAGO RUIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+243|MOSP851115NG3|PATRICIA MONTALVO SAUCEDO|87800|El Código Postal no coincide con el registrado en el RFC.
+244|MOTM881209E57|MARIA MARGARITA MONTEJO TREVIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+245|MOTR770109PY2|RAUL DIDIO MOYA TENEYUQUE|87800|El Código Postal no coincide con el registrado en el RFC.
+246|MOVB671025N36|BLANCA ESTELA MONTIEL VILLELA|87800|El Código Postal no coincide con el registrado en el RFC.
+247|MOVR821201P95|RAMIRO MORALES VILLEDA|87800|El Código Postal no coincide con el registrado en el RFC.
+248|MOZS8909286Q0|SALOMON MONTOYA ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+249|MUAB640416MS3|BLANCA MICAELA MUÃ?IZ ARRATIA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+250|MUCD600706RZ3|DEMETRIA MUÃ?OZ CAVAZOS|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+251|MUCI700502SC6|IRMA MUÃ?IZ CORONADO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+252|MUCM5812238Q5|MELVA MUÃ?IZ CASTILLEJA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+253|MUCT761003FRA|TERESA MUÃ?OZ CRUZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+254|MUDS731109LF0|SOFIA ELIZABETH MUÃ?IZ DAVILA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+255|MUEM7605177T0|MIRNA ELIZABETH MUÃ?IZ ESTRADA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+256|MUEM89040563A|MIGUEL ANGEL MUÃ?IZ ESTRADA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+257|MUGJ970803P93|JESSAMYN ARLETTE MUÃ?OZ GONZALEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+258|MUHJ760423HG1|JORGE MUÃ?IZ HORTA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+259|MUHJ8909073R5|JESSICA MUÃ?IZ HERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+260|MUHR800722UE8|RAFAEL MUÃ?OZ HERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+261|MUMA830212FC9|ANGELICA MALLY MUÃ?IZ MELCHOR|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+262|MUME891119SB6|EDWIN NAID MUÃ?IZ MARTINEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+263|MUMM710610T5A|MARCELINO MUÃ?IZ MARTINEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+264|MUMR820929EH8|RAFAEL ANTONIO MUÃ?OZ MARTINEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+265|MUMR821007AQA|RODOLFO MURILLO MALDONADO|87800|El Código Postal no coincide con el registrado en el RFC.
+266|MUMT781015KT6|TERESA DE JESUS MURILLO MALDONADO|87800|El Código Postal no coincide con el registrado en el RFC.
+267|MUNA890920IA5|ALFREDO ROBERTO MUÃ?OZ NAVA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+268|MUNN830519QN6|NANCY YOLANDA MUÃ?OZ NARVAEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+269|MURA710627KP8|ANTONIO MUÃ?OZ RAUDALES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+270|MURJ630409TL4|JUANA MUÃ?IZ ROBLES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+271|MURN780222UM6|NELLY GUADALUPE MUÃ?IZ REYES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+272|MUTM880711FG2|MAYRA MARISOL MUÃ?IZ TREVIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+273|MUZG820108R14|MARIA GUADALUPE MUÃ?OZ ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+274|NAAE840507NM2|ERNESTO NAVARRO ACOSTA|87800|El Código Postal no coincide con el registrado en el RFC.
+275|NAAL730718HS9|LUZ MARIA NAÃ?EZ ALANIZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+276|NABS8707092H2|SARAI DE JESUS NATAREN BARRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+277|NACA7504193W8|ALEJANDRO NAVA CALDERON|87800|El Código Postal no coincide con el registrado en el RFC.
+278|NACE551123AE0|EDUARDO NAVA CARRILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+279|NACJ900501HY2|JUAN CARLOS NAJERA COVARRUBIAS|87800|El Código Postal no coincide con el registrado en el RFC.
+280|NAGA771007UI1|ASTRICK IVAN NAVA GUTIERREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+281|NAMI900409UL5|IRIS CHANTAL NAVA MENDOZA|87800|El Código Postal no coincide con el registrado en el RFC.
+282|NAMM010927AA3|MIGUEL ANGEL NAVARRO MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+283|NAPK810115E84|KARLA IVETTE NAVARRO PONCE|87800|El Código Postal no coincide con el registrado en el RFC.
+284|NARM770729MU5|MARLENE JOSEFINA NAÃ?EZ ROQUE|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+285|NASF861201941|FERNANDO NAVA SALAS|87800|El Código Postal no coincide con el registrado en el RFC.
+286|NASP6609308Z0|PATRICIA NAVEJAR SALINAS|87800|El Código Postal no coincide con el registrado en el RFC.
+287|NAST840804L58|TANIA BERENICE NAVARRO SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+288|NATM811109IH2|MARIO ALBERTO NAJERA TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+289|NIAA780813GL5|ANABELL NIAVES AVALOS|87800|El Código Postal no coincide con el registrado en el RFC.
+290|NIAJ7503296E6|JESUS ABRAHAM NIÃ?O AVILA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+291|NICL760619AE8|LUIS JULIAN NIÃ?O CERVANTES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+292|NIGC9004246R7|CALVIN ALEJANDRO NIETO GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+293|NIGP640726SC8|PABLO NIETO GALLEGOS|87800|El Código Postal no coincide con el registrado en el RFC.
+294|NILC7903136L4|CYNTHIA GUADALUPE NIAVES LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+295|NILG800306LJ1|GIOVANNI DAVID NIAVES LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+296|NIMN801106HY4|NANCY NIÃ?O MARQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+297|NIRP710908PM2|PABLO NIÃ?O REYES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+298|NIRS920502PW5|SAN JUANITA NIETO RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+299|NISA710221FIA|ANGELICA MARIA NIÃ?O SOTO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+300|NOCT6204032L3|MARIA TERESA NORIEGA CANDANO|87800|El Código Postal no coincide con el registrado en el RFC.
+301|NUML8007229W5|LAURA ANTONIA NUÃ?EZ MIRANDA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+302|NURV830404MF9|VICTORIA ROELY NUÃ?EZ RUIZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+303|NUSG620402KI5|GERARDO JOEL NUÃ?EZ SOSA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+304|NUYN711216SF7|NORA HILDA NUÃ?EZ YAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+305|OAAN881201851|NALLELY MARIA GLORIA DE JESUS OCAÃ?A AGUIRRE|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+306|OAFA871211B70|ALEJANDRO GUADALUPE OCAÃ?A FLORES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+307|OAMA9012053W8|ALEJANDRA EUGENIA OCAÃ?A MAR|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+308|OASG880111H74|JOSE GILBERTO OVANDO SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+309|OATO7208253D4|ODIN ERNESTO ORTA TERAN|87800|El Código Postal no coincide con el registrado en el RFC.
+310|OECB840511F79|BERENICE OLLERVIDES CARDENAS|87800|El Código Postal no coincide con el registrado en el RFC.
+311|OEFE631108SC2|EDELMIRA OLVERA FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+312|OEGG870330LB3|GINA ELIZABETH OLVERA GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+313|OEGG901117SM2|GRICELDA ORNELAS GUERRERO|87800|El Código Postal no coincide con el registrado en el RFC.
+314|OEGS6712131H2|SERGIO ALBERTO OJEDA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+315|OEGV570128BA8|VICTOR MANUEL OLVERA GASPAR|87800|El Código Postal no coincide con el registrado en el RFC.
+316|OEIS860917SR0|SOFIA OTILIA ORTEGA IZAGUIRRE|87800|El Código Postal no coincide con el registrado en el RFC.
+317|OEMA7702286C6|ADRIANA OLVERA MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+318|OEME770828FR3|ELSY CAROLINA ORTEGA MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+319|OEMJ800612MK3|JORGE ALEJANDRO ORNELAS MALDONADO|87800|El Código Postal no coincide con el registrado en el RFC.
+320|OEMK860512CZ4|KARLA EDITH OJEDA MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+321|OEMO700820CW2|OSCAR LEONARDO OLVERA MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+322|OEMS850913SG4|SAN JUANA OLVERA MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+323|OEPJ8012234G7|JUAN ALEJANDRO OBREGON PADILLA|87800|El Código Postal no coincide con el registrado en el RFC.
+324|OERM770527PK5|MARISOL OLVERA RIVAS|87800|El Código Postal no coincide con el registrado en el RFC.
+325|OESN84072757A|NANCY EDITH OLVERA SEGURA|87800|El Código Postal no coincide con el registrado en el RFC.
+326|OIAF870209DG8|FATIMA BEATRIZ ORTIZ AGUILAR|87800|El Código Postal no coincide con el registrado en el RFC.
+327|OICA8703224S5|ANTONIO DE JESUS ORTIZ CASTRO|87800|El Código Postal no coincide con el registrado en el RFC.
+328|OICL890121BQA|LETICIA JOCELYN ORTIZ CRUZ|87800|El Código Postal no coincide con el registrado en el RFC.
+329|OIGA810522JK3|ALMA GLORIA ORTIZ GALLEGOS|87800|El Código Postal no coincide con el registrado en el RFC.
+330|OIML821225HT2|LUZ MARIA GRISEL ORTIZ MEZA|87800|El Código Postal no coincide con el registrado en el RFC.
+331|OIMS7609244I8|SORAIDA ORTIZ MONTENEGRO|87800|El Código Postal no coincide con el registrado en el RFC.
+332|OIMY811229M84|YANETH ELIZABETH ORTIZ MOLINA|87800|El Código Postal no coincide con el registrado en el RFC.
+333|OIPC8601277V3|CHRISTIAN AILIME ORTIZ PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+334|OIPK88120219A|KARLA THERESSA ORTIZ PIZAÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+335|OIRC6908278D1|CLAUDIA ARMANDINA ONTIVEROS RIVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+336|OISM7307083V6|MAYRA LORENA ORTIZ SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+337|OIZE911030S87|EDWIN ELY ORTIZ ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+338|OLJE8505207V3|JENIFER CRISTAL DE LA O LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+339|OOCR8807076Q5|RICARDO GUADALUPE OCHOA CORONADO|87800|El Código Postal no coincide con el registrado en el RFC.
+340|OOFJ920624QNA|JUAN MARTIN OCHOA FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+341|OOGE811013T33|EDUARDO OCHOA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+342|OOGM8302172GA|MARISELA OROZCO GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+343|OOGV890513SS6|VERONICA LIZETH OCHOA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+344|OOMH651124155|HECTOR DAVID OROZCO MUÃ?IZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+345|OOMJ810617H83|JUAN CARLOS OSORIO MELENDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+346|OOMR8602281X5|ROCIO MARISOL OLMOS MUÃ?IZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+347|OOOI841002KT1|ILIANA MARLENE OSORIA OLVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+348|OOOM730331CS4|MAYRA MAGDALENA OCHOA OSORIO|87800|El Código Postal no coincide con el registrado en el RFC.
+349|OORE640514FK3|EFRAIN ORDOÃ?EZ RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+350|OOTD841012AL6|DAVID ERNESTO OSORIO TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+351|OOTJ571002AFA|JESUS OLMOS TISCAREÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+352|OUHM881210966|MAYRA LILIANA ORDUÃ?O HERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+353|OURL831219AI4|LEONARDO OLGUIN RUIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+354|PABL831106D23|LUIS GERARDO PACHECO BARRIENTOS|87800|El Código Postal no coincide con el registrado en el RFC.
+355|PAGC800510HG2|CLAUDIA MERCEDES PADRON GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+356|PAGD760816JL5|DANTE ALIGHERI PARREÃ?O GAMEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+357|PAGE9111201N0|ELVIA ROCIO PRADO GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+358|PAGF790617THA|FRANCISCO ROMAN PARTIDA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+359|PAGO861025CG2|OZIEL AZAEL PALACIOS GAMIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+360|PAHA930717670|ANDRES PALACIOS HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+361|PAHL560906CU9|LEOBARDO PALACIOS HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+362|PAHL821102LS4|LUIS FRANCISCO PADRON HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+363|PALC910215IK5|CINTYA AURORA PAUL LOSOYA|87800|El Código Postal no coincide con el registrado en el RFC.
+364|PALI6701205Y9|IDOLINA PADILLA DE LEON|87800|El Código Postal no coincide con el registrado en el RFC.
+365|PAMG59031287A|GREGORIO ALEJANDRO PAREDES MEJIA|87800|El Código Postal no coincide con el registrado en el RFC.
+366|PAMP6303173A4|PATRICIA PATLAN MEDINA|87800|El Código Postal no coincide con el registrado en el RFC.
+367|PANF700611MY6|FRANCISCO JAVIER PARREÃ?O NAVARRO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+368|PAOL760915D99|JOSE LUIS PAREDES OCHOA|87800|El Código Postal no coincide con el registrado en el RFC.
+369|PAPP550524TU1|PATRICIA MARGARITA PASTOR PAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+370|PAPR670810PF3|ROGELIO PACHECO PASTRANA|87800|El Código Postal no coincide con el registrado en el RFC.
+371|PAPS890421AI5|SARAHI BETZABE PADILLA PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+372|PARC910823LW3|CLAUDIA JAZMIN PATIÃ?O RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+373|PARE830815267|EDGARDO PAZ RUBIO|87800|El Código Postal no coincide con el registrado en el RFC.
+374|PARF7103017G5|JOSE FELIX PARREÃ?O ROCHA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+375|PARI840616481|IVAN DE JESUS PARREÃ?O RAMIREZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+376|PASD901018PS9|DIANA YARMIN PALAFOX SERRANO|87800|El Código Postal no coincide con el registrado en el RFC.
+377|PATE751001A73|EVA MARIA PAZ TURRUBIATES|87800|El Código Postal no coincide con el registrado en el RFC.
+378|PAZL891103U64|LUISA YANETH PALOMARES ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+379|PEAG6208223E8|GILBERTO PEÃ?A AREGULLIN|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+380|PEAM851004I17|MONICA BERENICE PEREZ AMADOR|87800|El Código Postal no coincide con el registrado en el RFC.
+381|PEBM7804049A6|MANUEL ENRIQUE PEREZ BARRIENTOS|87800|El Código Postal no coincide con el registrado en el RFC.
+382|PECA6112145F6|MARIA ALEJANDRA PEREZ CAO ROMERO|87800|El Código Postal no coincide con el registrado en el RFC.
+383|PECA660213SS9|MA. ANTONIA PEDRAZA CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+384|PECA720811J98|ALFREDO PEREZ COMPEAN|87800|El Código Postal no coincide con el registrado en el RFC.
+385|PECD8311297V4|DAVID PEREZ CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+386|PECE860409IS8|MARIA ESTHER PEREZ CRUZ|87800|El Código Postal no coincide con el registrado en el RFC.
+387|PECF820311DM4|FABIAN EDUARDO PEÃ?A CARVAJAL|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+388|PECG840717LS2|GLORIA PEREZ CARDENAS|87800|El Código Postal no coincide con el registrado en el RFC.
+389|PECG890704K74|GENESIS LIZETTE PEREZ CRUZ|87800|El Código Postal no coincide con el registrado en el RFC.
+390|PECJ690624287|JUAN PEREZ CRUZ|87800|El Código Postal no coincide con el registrado en el RFC.
+391|PEDF860406PM0|FRANCISCO JAVIER PEREZ DIAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+392|PEEG751231ES6|GABRIELA PERAZA ESPINOZA|87800|El Código Postal no coincide con el registrado en el RFC.
+393|PEEI7411294UA|IRMA ESTELA PEREZ ESTRADA|87800|El Código Postal no coincide con el registrado en el RFC.
+394|PEER870117LD3|REYNA PATRICIA PEDRAZA ESPINOSA|87800|El Código Postal no coincide con el registrado en el RFC.
+395|PEFC780130CJA|CARLOS EDU PEÃ?A FLORES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+396|PEGC8101152S2|CLAUDIA PECINA GALLEGOS|87800|El Código Postal no coincide con el registrado en el RFC.
+397|PEGD820729G92|DIEGO ARMANDO PEÃ?A GARCIA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+398|PEGG571208LU3|GUILLERMINA PEREZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+399|PEGM820630CH0|MAYRA KARINA PEREZ GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+400|PEGV721018QS1|VERONICA MARGARITA PEÃ?A GARCIA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+401|PEHA8106245X5|ADRIAN TONATIUH PEREZ CORTES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+402|PEHF641212NH3|FERNANDO PEREZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+403|PEHH841025DQ3|HUGO ALEJANDRO PEÃ?A HINOJOSA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+404|PEHL920306FF5|LEONARDO OSIEL PEREZ HERRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+405|PELO670206GFA|OSCAR PEREZ LOZANO|87800|El Código Postal no coincide con el registrado en el RFC.
+406|PELS890806UKA|SARAHI PEREZ LEOS|87800|El Código Postal no coincide con el registrado en el RFC.
+407|PEMA92020782A|ALMA GUADALUPE PEÃ?A MARTINEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+408|PEME8304306E9|EDGAR PEÃ?A MEDINA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+409|PEMJ611016T58|JESUS PERALES MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+410|PEMJ780330AK9|JACQUELINE PEREZ MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+411|PEMJ831227QI2|JUAN ENRIQUE PEÃ?A MARTINEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+412|PEML580826LC7|LAURA ELENA PEÃ?A MEDINA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+413|PEMM700719L35|MARIO JAVIER PEREZ MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+414|PEMM730822C17|MIGUEL ANGEL PEREZ MENDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+415|PEMR810108HL4|ROCIO ELIZABETH PEREZ MALDONADO|87800|El Código Postal no coincide con el registrado en el RFC.
+416|PEOL790925GL9|LUIS ALBERTO PERALES OLVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+417|PEOV890831ST4|VIOLETA ABIGAIL PEREZ OLVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+418|PEPA710604NJ0|ARACELY PEREZ PALACIOS|87800|El Código Postal no coincide con el registrado en el RFC.
+419|PEPE780308I46|EVELYN ARLETTE PEÃ?A PALACIOS|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+420|PEPJ831206ME6|JORGE HUMBERTO PEÃ?A PEREZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+421|PERE710903KP7|ELIZABETH PEÃ?A RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+422|PERI7509234V5|IRMA PATRICIA PERALES RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+423|PERM6906134Y3|MARIO ANTONIO PESINA RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+424|PERM840617526|MARCO ANTONIO PEREZ RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+425|PERS831013HP4|SILVIA DENISSE PEREZ ROJAS|87800|El Código Postal no coincide con el registrado en el RFC.
+426|PESE870422TH6|EDGAR TOMAS PEREZ SEGURA|87800|El Código Postal no coincide con el registrado en el RFC.
+427|PETL910918PU9|LESLIE PEREZ TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+428|PEVA810505FC9|JOSE ALBERTO PEREZ VELAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+429|PEVF840817NG4|FRANCISCO LUIS PEÃ?A VILLALOBOS|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+430|PEVR891219RU8|ROBERTO PEÃ?A VEGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+431|PEZJ7602124A5|JORGE JAIME PESINA ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+432|PEZP660525KR1|PEDRO PESINA ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+433|PIAJ741023MS9|JACQUELINE PIZAÃ?A AVALOS|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+434|PIDG6609241B3|GERARDO PINSON DOMINGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+435|PIEA700306EA4|ALEJANDRO PIZAÃ?A ESQUIVEL|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+436|PIES851015AW5|SERGIO PINEDA ESCOBAR|87800|El Código Postal no coincide con el registrado en el RFC.
+437|PIGA740616GX5|ALMA LORENA PIÃ?A GOMEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+438|PIGD920424IE0|DOYMA LEONOR PIZAÃ?A GARCIA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+439|PIMB800712CN7|BRENDA PIÃ?A MUÃ?OZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+440|PIMG880111L74|GABRIELA JOSEFINA PIZAÃ?A MARTINEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+441|PIMJ891006F8A|JUAN MANUEL PIZAÃ?A MARTINEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+442|PIMM791007AX3|MAYRA PIÃ?A MAYORGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+443|PIPA830124EH0|AMBROCIO PIÃ?A PATIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+444|PIPA8404014M5|ANA MARIA PIÃ?A PADRON|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+445|PIRH80061868A|HUMBERTO PIÃ?A RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+446|PIRR710220M75|RAMIRO VICENTE PIÃ?A DE LA ROSA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+447|PIST800326KQ8|TELMA YADIRA PIÃ?A SALAZAR|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+448|PIVL920823A66|LARISSA YAELI PIÃ?ON VAZQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+449|POAL760211956|MA. DE LOURDES PONCE AGUILLON|87800|El Código Postal no coincide con el registrado en el RFC.
+450|POEA910110T4A|ALEJANDRA POSADA ESCALON|87800|El Código Postal no coincide con el registrado en el RFC.
+451|POGE7611072U3|ERIKA LORENA PORRAS GUZMAN|87800|El Código Postal no coincide con el registrado en el RFC.
+452|POJE731024AI4|EDUARDO PONCE JUAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+453|POPA880408GD8|JOSE ANGEL PONCE PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+454|POVL581102BK5|LEONARDA PROSPERO DE LA VEGA|87800|El Código Postal no coincide con el registrado en el RFC.
+455|PUGN7812018AA|NERY ELIZABETH PUGA DE LA GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+456|PULR800918819|RUBEN PUENTES LEON|87800|El Código Postal no coincide con el registrado en el RFC.
+457|PUPA641002FP4|ADOLFO PUGA PUGA|87800|El Código Postal no coincide con el registrado en el RFC.
+458|PUTT880101N90|THALIA ELIDETH PULIDO TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+459|QUBA730616365|ALICIA QUILANTAN BARAJAS|87800|El Código Postal no coincide con el registrado en el RFC.
+460|QUCC731212IZ1|CARMEN GUADALUPE QUINTERO CAMERO|87800|El Código Postal no coincide con el registrado en el RFC.
+461|QUFE780331RY7|JOSE ENRIQUE QUINTERO FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+462|QUGG750204TD3|GRICELDA QUIÃ?ONES GARCIA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+463|QUGI590419U50|IRMA LETICIA QUINTERO GOMEZ DEL VILLAR|87800|El Código Postal no coincide con el registrado en el RFC.
+464|QULP811010L73|PAULO SERGIO QUINTERO LEAL|87800|El Código Postal no coincide con el registrado en el RFC.
+465|QULV800916RH4|VICTOR HUGO QUINTERO LEAL|87800|El Código Postal no coincide con el registrado en el RFC.
+466|QUMF781106DR1|FELIX LEONARDO QUIÃ?ONES MEDINA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+467|QUMG910202K8A|GUILLERMO MARTIN QUINTERO MERCADO|87800|El Código Postal no coincide con el registrado en el RFC.
+468|QURK891102D14|KARIME QUINTOS RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+469|QUVA770709LF9|AIDA QUIÃ?ONEZ VAZQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+470|QUVC6204063V0|CARLOS SALVADOR QUIROZ VASQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+471|RAAA940622MM8|ALEJANDRA RAMIREZ AVALOS|87800|El Código Postal no coincide con el registrado en el RFC.
+472|RAAE950404IT3|EDGAR RENE RAMIREZ AGUILAR|87800|El Código Postal no coincide con el registrado en el RFC.
+473|RAAJ780514243|JESUS RAMIREZ ACUÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+474|RAAJ841219IE4|JUAN MANUEL RAMIREZ ACUÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+475|RAAM810619SP1|MAGDALENA RANGEL ALFARO|87800|El Código Postal no coincide con el registrado en el RFC.
+476|RAAP670930P86|PATRICIA RAMIREZ AGUILERA|87800|El Código Postal no coincide con el registrado en el RFC.
+477|RABP851121GZ9|PAOLA VICTORIA RANGEL BOTELLO|87800|El Código Postal no coincide con el registrado en el RFC.
+478|RACB821114C15|BLANCA YEDID RAMIREZ CORONADO|87800|El Código Postal no coincide con el registrado en el RFC.
+479|RACE880604LP8|ERIKA RAGA CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+480|RACJ911028PI9|JUAN JESUS RAMOS CASTAÃ?EDA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+481|RAFF5711202I3|MARIA FELIX RAMIREZ FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+482|RAFJ7112141W4|JUAN NOE RAMIREZ FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+483|RAGE730516DM5|EDEN RAMOS GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+484|RAGE7702068D7|EVELIA RAMOS GALLEGOS|87800|El Código Postal no coincide con el registrado en el RFC.
+485|RAGE770711NI3|ELIZABETH RANGEL GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+486|RAGG6101185R5|GRACIELA RAMOS GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+487|RAGH890727AB5|HOMERO RAMIREZ GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+488|RAGJ8401161X7|MARIA JOSEFINA RANGEL GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+489|RAGM540107743|MARCO ANTONIO RAMOS GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+490|RAGN750712IZ3|NOE RAMIREZ GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+491|RAGN790424SZ9|NORMA PATRICIA RAMIREZ GUTIERREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+492|RAIO7108169Y0|OLIVIA RAMIREZ IBARRA|87800|El Código Postal no coincide con el registrado en el RFC.
+493|RALA850206P39|JOSE ALBERTO RAMIREZ LOREDO|87800|El Código Postal no coincide con el registrado en el RFC.
+494|RALC861215UF0|CESAR GUADALUPE RAMIREZ LORES|87800|El Código Postal no coincide con el registrado en el RFC.
+495|RALG630101NQ3|MARIA GUADALUPE RASGADO LUNA|87800|El Código Postal no coincide con el registrado en el RFC.
+496|RALJ960520V4A|JOSE DE JESUS RAMIREZ LIMAS|87800|El Código Postal no coincide con el registrado en el RFC.
+497|RALM830622365|MARTHA LORENA RAMOS LERMA|87800|El Código Postal no coincide con el registrado en el RFC.
+498|RALM860320LN7|MARISOL RANGEL LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+499|RAMC820114J56|CINTHYA RAMIREZ MIRANDA|87800|El Código Postal no coincide con el registrado en el RFC.
+500|RAMC820918JFA|CANDY MARGARITA RAMOS MEDRANO|87800|El Código Postal no coincide con el registrado en el RFC.
+501|RAMM630529CM8|MARTIN RAMIREZ MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+502|RANR780811GN3|REYNALDO RAMOS NIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+503|RANS760720KQ5|SELENE RAMOS NIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+504|RAOJ600226V69|J. MARIO GUSTAVO RAMIREZ ORTIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+505|RAOL940815CI5|LUIS ROBERTO RANGEL ORDOÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+506|RAPA6512194D5|JOSE ANTONIO RAMIREZ PULIDO|87800|El Código Postal no coincide con el registrado en el RFC.
+507|RAPL850122J8A|LILIA ELIZABETH RAMIREZ PIÃ?ON|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+508|RAPM630106E8A|MELCHOR RAMIREZ PULIDO|87800|El Código Postal no coincide con el registrado en el RFC.
+509|RAPN9208208I6|NANCY ELIZABETH RAMIREZ DE LA PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+510|RARE8611156A5|MARIA EVANGELINA RAMIREZ ROJAS|87800|El Código Postal no coincide con el registrado en el RFC.
+511|RARF761112NK0|FABIOLA RAMON RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+512|RARH860307MN3|HILARIO EDUARDO RAMOS RANGEL|87800|El Código Postal no coincide con el registrado en el RFC.
+513|RARL720725282|LAZARO RAZO RESENDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+514|RASA700410B65|ARTURO HONORE RAMIREZ SALDAÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+515|RASD820224LQ1|DULCE NORALBA RAMOS SALAZAR|87800|El Código Postal no coincide con el registrado en el RFC.
+516|RASI570708EBA|ISABEL RAMIREZ SOTO|87800|El Código Postal no coincide con el registrado en el RFC.
+517|RASJ811110B17|JESUS RICARDO RAMOS SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+518|RASP890130TX0|PERLA JANETH RAMIREZ SANTAMARIA|87800|El Código Postal no coincide con el registrado en el RFC.
+519|RAVA661220UX4|ANA MA. RAMOS VASQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+520|RAVR651001HW4|REBECA RAMIREZ VENEGAS|87800|El Código Postal no coincide con el registrado en el RFC.
+521|RAZA720429195|JOSE ALBERTO RAMIREZ ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+522|RAZJ770207569|JORGE ALBERTO RAYGOZA ZEPEDA|87800|El Código Postal no coincide con el registrado en el RFC.
+523|RAZL750405NR2|MARIA LAURA RAMIREZ ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+524|RAZV8312119F5|VERONICA GUADALUPE RAMIREZ ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+525|REAC661108TD9|CLOTILDE REYES ARRIAGA|87800|El Código Postal no coincide con el registrado en el RFC.
+526|REAL870511HM8|LILIA YETZEL RESENDIZ AGUILAR|87800|El Código Postal no coincide con el registrado en el RFC.
+527|REAM8201191XA|MIRIAM SAGRARIO REYES AMADOR|87800|El Código Postal no coincide con el registrado en el RFC.
+528|RECE7408092J7|ELENA REYNA CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+529|RECG720714TB0|GABRIELA REYES CUERVO|87800|El Código Postal no coincide con el registrado en el RFC.
+530|RECT71091625A|TERESA DE JESUS REYES CASTAÃ?ON|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+531|REDS8411197S8|SERGIO DANIEL REYNA DAVILA|87800|El Código Postal no coincide con el registrado en el RFC.
+532|REDY730317356|YOLANDA PATRICIA REYES DOMINGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+533|REEA7001285S9|ADELA REYES ELIZALDE|87800|El Código Postal no coincide con el registrado en el RFC.
+534|REEJ8007015R2|JULIA IMELDA REYES ENRIQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+535|REFA630805J44|ALEJANDRO REYES FRANCO|87800|El Código Postal no coincide con el registrado en el RFC.
+536|REGA780715CS4|ANTONIO RETA GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+537|REGE810210GI5|EDGAR REYNOSO GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+538|REGY790413LT7|YURIDIA ELIZABETH REYES GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+539|REHA590824EG5|AURELIO REGALADO HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+540|REHT8602063L6|TECZUGUI REYES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+541|REHZ910817IX4|ZAYRA YANIN REYES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+542|RELL670908FH6|LAURA SUSANA REYES LUGO|87800|El Código Postal no coincide con el registrado en el RFC.
+543|REMA901230ML3|ANA LILIA REYNA MENDOZA|87800|El Código Postal no coincide con el registrado en el RFC.
+544|REMR6009279R4|MARIA DEL ROCIO REYNA MONTERO|87800|El Código Postal no coincide con el registrado en el RFC.
+545|REMR6903171B9|ROLANDO RESENDEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+546|REMS6302241F8|SAMUEL REYES MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+547|REMS890908P38|SANDRA IVONNE REYNA MUÃ?OZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+548|RENC791128KD7|CARLOS GERARDO REYES NIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+549|RENJ60050965A|JESUS RENDON NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+550|RENM500323J83|MA. TERESA DE JESUS RENDON NEGROE|87800|El Código Postal no coincide con el registrado en el RFC.
+551|REPJ7207144S1|JESUS RENE REYES PICAZO|87800|El Código Postal no coincide con el registrado en el RFC.
+552|REPK800104K99|KAORY ALETIA REYES PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+553|REPS730711D29|SANDRA EDITH REYES PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+554|REQL751228S16|LILIA CLEMENTINA RENDON QUIRARTE|87800|El Código Postal no coincide con el registrado en el RFC.
+555|RERJ870430JM0|JORGE LUIS REQUENA REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+556|RERN7410204I2|NORMA EDITH REYNA RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+557|RETE8801014I3|EDUARDO RENDON TREVIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+558|REUL810810RL0|LARISSA MARLEN DE LOS REYES UGALDE|87800|El Código Postal no coincide con el registrado en el RFC.
+559|REVD891213PL6|DANIEL RESENDIZ VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+560|REVF740405UBA|FRANCISCO MANUEL REDONDO VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+561|RIAE681031C96|MA. ESMERALDA RIVERA ALVAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+562|RICD720104AD2|DOLORES RIVERA CRUZ|87800|El Código Postal no coincide con el registrado en el RFC.
+563|RICD881222CM5|DANIEL ARCEL RIVAS CANTU|87800|El Código Postal no coincide con el registrado en el RFC.
+564|RIGJ880824N4A|JUAN ANTONIO RIOS GALVAN|87800|El Código Postal no coincide con el registrado en el RFC.
+565|RIHM7312189V0|MIREYA GUADALUPE RIESTRA HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+566|RIMC7507187I7|MARIA DEL CARMEN RIOS MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+567|RIML900610LB4|LUZ VICTORIA RIVERA MEJIA|87800|El Código Postal no coincide con el registrado en el RFC.
+568|RIMM680118U61|MIRNA ELIZABETH RIOS MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+569|RIPE780707GL5|ERIK SIRAM RIOS PARREÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+570|RIPP670609435|PRIMA DIANA RIOS PARRAS|87800|El Código Postal no coincide con el registrado en el RFC.
+571|RISE761023750|EVA LISSETE RIOS SALDAÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+572|RISU7801111X8|URIEL ISRAEL RIVERA SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+573|RIVA901003CA0|AMAYA LORENA RIVERA VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+574|RIVR640102H36|RENE MACARIO RIVERA VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+575|RIZM8001192K3|MARTE CARLO RICO ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+576|ROAA711203LE0|ANGELINA DEL CARMEN RODRIGUEZ ALEMAN|87800|El Código Postal no coincide con el registrado en el RFC.
+577|ROAG740717UP5|MARIA GUADALUPE ROCHA AMARO|87800|El Código Postal no coincide con el registrado en el RFC.
+578|ROAI791130MN3|IBETH KARINA RODRIGUEZ ALVAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+579|ROAJ611204855|JUAN DE DIOS RODRIGUEZ ARRATIA|87800|El Código Postal no coincide con el registrado en el RFC.
+580|ROAZ870224HA4|ZORAYDA OLINCA RODRIGUEZ ARRIAGA|87800|El Código Postal no coincide con el registrado en el RFC.
+581|ROBG810801G40|GABRIELA MARGARITA ROSAS BLANCO|87800|El Código Postal no coincide con el registrado en el RFC.
+582|ROBM850308AZ7|MIGUEL RODOLFO ROCHA BLANCO|87800|El Código Postal no coincide con el registrado en el RFC.
+583|ROCC8601036Q7|CHRISTIAN MABEL RODRIGUEZ CORTES|87800|El Código Postal no coincide con el registrado en el RFC.
+584|ROCF611106IL3|FRANCISCO GIL RODRIGUEZ CASTAÃ?ON|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+585|ROCI8007071I9|MARIA ISABEL ROMERO CHAVERRI|87800|El Código Postal no coincide con el registrado en el RFC.
+586|ROCI8903234I2|IRIS MARISELA RODRIGUEZ CUELLAR|87800|El Código Postal no coincide con el registrado en el RFC.
+587|ROCL670519AX2|MA. LOLA SAN MARTIN RODRIGUEZ CAMPA|87800|El Código Postal no coincide con el registrado en el RFC.
+588|ROCM611011EJ3|MANUEL RODRIGUEZ CABRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+589|ROCM890922M35|MARTIN EDGARDO ROBLES CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+590|RODI930510RL1|INGRID RODRIGUEZ DELGADO|87800|El Código Postal no coincide con el registrado en el RFC.
+591|ROEA810815KH1|ABRAHAM ORLANDO RODRIGUEZ ESPINOZA|87800|El Código Postal no coincide con el registrado en el RFC.
+592|ROFD800208G26|DAVID RODRIGUEZ FERRETIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+593|ROFM460726KW7|JOSE MARIA RODRIGUEZ FALCON|87800|El Código Postal no coincide con el registrado en el RFC.
+594|ROFN900112EW9|NYRIA YVETTE RODRIGUEZ FELIX|87800|El Código Postal no coincide con el registrado en el RFC.
+595|ROGA8906296W4|ANA KAREN ROSALES GASPAR|87800|El Código Postal no coincide con el registrado en el RFC.
+596|ROGC920601CF3|CRISTIAN ENRIQUE RODRIGUEZ GUZMAN|87800|El Código Postal no coincide con el registrado en el RFC.
+597|ROGE690821SP2|EVELIA RODRIGUEZ GUEVARA|87800|El Código Postal no coincide con el registrado en el RFC.
+598|ROGE730626PZ0|MARIA ENEDINA ROCHA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+599|ROGE840520114|EFREN JAVIER ROSAS GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+600|ROGL841009F95|LUZ SELENE ROCHA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+601|ROGM6503191P8|MARCO ANTONIO RODRIGUEZ GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+602|ROGP8101139T8|PATSY VANESSA RODRIGUEZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+603|ROGR820815936|ROCIO RODRIGUEZ DE LA GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+604|ROGR830805M97|RAUL RODRIGUEZ DE LA GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+605|ROGS9406069CA|SENDY NALLELY ROBLEDO GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+606|ROGX751216BB0|XOCHITL GUADALUPE ROBLES GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+607|ROHF951110A4A|MARIA FERNANDA ROSALES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+608|ROHG600624S15|GUSTAVO ROJO HURTADO|87800|El Código Postal no coincide con el registrado en el RFC.
+609|ROHM630922AE8|JOSE MARTIN RODRIGUEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+610|ROHN7207297S4|NURIA DE LA ROSA HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+611|ROHS970408KJ9|SAUL ROSALES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+612|ROLE8611073Q6|EVA SARAHI ROBBINS LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+613|ROLR800429747|RAYMUNDO RODRIGUEZ LOERA|87800|El Código Postal no coincide con el registrado en el RFC.
+614|ROLS770207PB8|SANTA SOFIA ROCHA LARA|87800|El Código Postal no coincide con el registrado en el RFC.
+615|ROMC790717A69|CLAUDIA VERONICA RODRIGUEZ MATA|87800|El Código Postal no coincide con el registrado en el RFC.
+616|ROMC9003096P1|CRISTINA RODRIGUEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+617|ROME720518SK1|EDITH ROSAS MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+618|ROME761104KLA|ERICK ALEJANDRO RODRIGUEZ MEDINA|87800|El Código Postal no coincide con el registrado en el RFC.
+619|ROMG7103172P8|MARIA GUADALUPE RODRIGUEZ MUÃ?IZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+620|ROMI700128PZ6|ILIANA GUADALUPE RODRIGUEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+621|ROMJ810429NL7|JUAN JESUS DE LA ROSA MELENDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+622|ROMK750519619|KARINA RODRIGUEZ MONTOYA|87800|El Código Postal no coincide con el registrado en el RFC.
+623|ROMM570805LE0|MARICELA IDOLINA ROBLEDO MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+624|ROMV850112PV8|VERONICA ZELENNY DE LA ROSA MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+625|ROMY870108VB0|YOMAYRA ROCHA MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+626|ROOA910918KH7|AZALIA MADAI RODRIGUEZ OLMEDA|87800|El Código Postal no coincide con el registrado en el RFC.
+627|ROOE78011851A|ENRIQUE RODRIGUEZ OROZCO|87800|El Código Postal no coincide con el registrado en el RFC.
+628|ROPC700330795|CARLOS ALBERTO RODRIGUEZ PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+629|ROPC9004186C0|CARLA MARIA RODELA PAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+630|ROPE7104282H9|ELIZABETH DE LA ROSA PESINA|87800|El Código Postal no coincide con el registrado en el RFC.
+631|ROPI770804FC4|IVETE KARINA ROSAS PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+632|ROPJ890612BK2|JOSE DE JESUS RODRIGUEZ PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+633|ROPM740223A45|MARTHA ALICIA RODRIGUEZ PACHECO|87800|El Código Postal no coincide con el registrado en el RFC.
+634|ROPM970610EPA|JOSE MANUEL ROMERO PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+635|ROPY890820V32|YESSENIA YURIDIA RODRIGUEZ PERALES|87800|El Código Postal no coincide con el registrado en el RFC.
+636|ROQS940713DY8|SOFIA MACARENA ROCHA QUILANTAN|87800|El Código Postal no coincide con el registrado en el RFC.
+637|RORG761204N65|GRISETH RODRIGUEZ RIVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+638|RORJ721223T46|JULIO CESAR RODRIGUEZ RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+639|RORO820513929|OLGA LIDIA ROBLES RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+640|RORP760125643|PEDRO RODRIGUEZ RUIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+641|RORR770406NJ3|RICARDO RODRIGUEZ ROJAS|87800|El Código Postal no coincide con el registrado en el RFC.
+642|RORS761203R75|SERGIO MANUEL RODRIGUEZ REGALADO|87800|El Código Postal no coincide con el registrado en el RFC.
+643|RORS830212HB7|SAIDA ZORAIDA RODRIGUEZ RAMOS|87800|El Código Postal no coincide con el registrado en el RFC.
+644|ROSC831025LBA|CRISANTA ROSAS SANTIAGO|87800|El Código Postal no coincide con el registrado en el RFC.
+645|ROSM781204PS6|MARYELI RODRIGUEZ SALGADO|87800|El Código Postal no coincide con el registrado en el RFC.
+646|ROSO8201108E2|OMAR ALONSO RODRIGUEZ SALAZAR|87800|El Código Postal no coincide con el registrado en el RFC.
+647|ROSR680611TT8|ROSA ISELA RODRIGUEZ SIFUENTES|87800|El Código Postal no coincide con el registrado en el RFC.
+648|ROSY7405126K0|YESSICA ROSALINO SANTIAGO|87800|El Código Postal no coincide con el registrado en el RFC.
+649|ROSY960612S67|YESSICA CECILIA RODRIGUEZ SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+650|ROUJ780222RZA|JORGE ALBERTO RODRIGUEZ UZCANGA|87800|El Código Postal no coincide con el registrado en el RFC.
+651|ROVL720218RB3|LAURA ROJAS VITALES|87800|El Código Postal no coincide con el registrado en el RFC.
+652|ROYN950917PX6|NIDIA PATRICIA RODRIGUEZ YAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+653|ROZS851002377|SANDRA ELIZABETH ROMERO ZAVALA|87800|El Código Postal no coincide con el registrado en el RFC.
+654|ROZY831024S29|YADIRA ALEJANDRA DE LA ROSA ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+655|RUAI8601163QA|MARIA ISABEL RUEDA ACUÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+656|RUDI671030BB8|IGNACIA RUIZ DIAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+657|RUEL7201127P5|LUVIA ESTELA RUIZ ESCOBAR|87800|El Código Postal no coincide con el registrado en el RFC.
+658|RUFA7209172W4|MARIA DE LOS ANGELES RUIZ FRANCO|87800|El Código Postal no coincide con el registrado en el RFC.
+659|RUGM710404A70|MIREYA RUSTRIAN GIADANS|87800|El Código Postal no coincide con el registrado en el RFC.
+660|RUMA8412165Y5|JOSE ALFREDO RUIZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+661|RUMG941117GE2|GUILLERMO NOVI RUIZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+662|RUMN510601BR7|NORA HILDA RUIZ MENDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+663|RUPA800429F19|ARACELY RUIZ PIÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+664|RUPK831117PS7|KARLA VIANEY RUIZ PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+665|RUQP741228453|PATRICIA RUIZ QUIROZ|87800|El Código Postal no coincide con el registrado en el RFC.
+666|RURB900118U71|BIANCA SOFIA RUIZ RAUDY|87800|El Código Postal no coincide con el registrado en el RFC.
+667|RURJ870616976|JESUS ANTONIO RUIZ RIVERA|87800|El Código Postal no coincide con el registrado en el RFC.
+668|RUSL820825QS3|LORENA RUIZ SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+669|RUTS7607053SA|SUGHEI QUETZALI RUIZ TAPIA|87800|El Código Postal no coincide con el registrado en el RFC.
+670|SAAA590725UU5|ANA MARIA SALDIVAR ANAYA|87800|El Código Postal no coincide con el registrado en el RFC.
+671|SAAA75121654A|ALEJANDRO SANTISBON AGUILAR|87800|El Código Postal no coincide con el registrado en el RFC.
+672|SAAB5611113E0|BERTHA SANCHEZ AGUIRRE|87800|El Código Postal no coincide con el registrado en el RFC.
+673|SAAC871224S62|MARIA DEL CARMEN SANTOS AGUIRRE|87800|El Código Postal no coincide con el registrado en el RFC.
+674|SAAD760714N77|DULCE ESPERANZA SALAS AVALOS|87800|El Código Postal no coincide con el registrado en el RFC.
+675|SAAJ660402NI9|JORGE LUIS SALDIVAR ANAYA|87800|El Código Postal no coincide con el registrado en el RFC.
+676|SAAM8908084TA|MARIA MARISELA SALAZAR ALMAZAN|87800|El Código Postal no coincide con el registrado en el RFC.
+677|SAAS590620KT8|SILVERIO SANCHEZ ALDAPE|87800|El Código Postal no coincide con el registrado en el RFC.
+678|SABC840804EN7|CLAUDIA YANETH SANCHEZ BANDA|87800|El Código Postal no coincide con el registrado en el RFC.
+679|SABJ791019S86|JUAN MANUEL SANCHEZ BARRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+680|SABR710727880|RAUL SANCHEZ BANDA|87800|El Código Postal no coincide con el registrado en el RFC.
+681|SACA7307171N6|ANSELMO SALAZAR CEBALLOS|87800|El Código Postal no coincide con el registrado en el RFC.
+682|SACB6003254EA|BERTHA SANCHEZ CAMACHO|87800|El Código Postal no coincide con el registrado en el RFC.
+683|SACC811130PJ6|CESAR MIGUEL SANCHEZ CERVANTES|87800|El Código Postal no coincide con el registrado en el RFC.
+684|SACC830826HZ6|CESAR OMAR SALAZAR CHAVEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+685|SACD601006CP3|DINA AURORA SALAS CABRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+686|SACE790831IU2|EDUARDO ALBERTO SALAZAR CARMONA|87800|El Código Postal no coincide con el registrado en el RFC.
+687|SACF891007C23|FRANCISCO OSWALDO SANCHEZ CHAVERO|87800|El Código Postal no coincide con el registrado en el RFC.
+688|SACJ651101RW9|MARIA DE JESUS SALAZAR CHAVEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+689|SACJ7305212S9|JUAN CARLOS SALDAÃ?A CASTILLO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+690|SACJ810721JN9|JAIME SANTIAGO CERVANTES|87800|El Código Postal no coincide con el registrado en el RFC.
+691|SACM860423SW9|MAYRA SUSANA SALAZAR CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+692|SACM900514VB1|MARCO ANTONIO SALDAÃ?A CARREÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+693|SACM910506HG3|MARA ALHELI SANCHEZ CARDENAS|87800|El Código Postal no coincide con el registrado en el RFC.
+694|SACR8211052V0|RICARDO SANCHEZ DEL CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+695|SADT610307PPA|TOMASA SANCHEZ DELGADO|87800|El Código Postal no coincide con el registrado en el RFC.
+696|SAEC760722FYA|CYNTYA DALILA SALAS ESCOBAR|87800|El Código Postal no coincide con el registrado en el RFC.
+697|SAEC900711HN1|CARMEN ELISA SALDAÃ?A ESPINO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+698|SAEE721213M4A|ELVIA LUCIA SALAZAR ESCAMILLA|87800|El Código Postal no coincide con el registrado en el RFC.
+699|SAEG7811167S8|GUSTAVO ALFREDO SALDAÃ?A ESPINO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+700|SAEL621012GA4|JOSE LUIS SANCHEZ ESQUIVEL|87800|El Código Postal no coincide con el registrado en el RFC.
+701|SAEL660723C63|LIBORIO SANCHEZ ESTUDILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+702|SAEY830404ND0|YAZMIN SAUCEDO ENRIQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+703|SAFA800929494|ANDREA SANTOS FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+704|SAFL810526BS4|LESVIA ROCIO SALDIVAR FERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+705|SAFM600711D40|MARTHA LETICIA SALDAÃ?A FERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+706|SAFT731213SK9|TIBERIO CESAR SALDIVAR DE LA FUENTE|87800|El Código Postal no coincide con el registrado en el RFC.
+707|SAGA56120138A|AUGUSTO CESAR SANCHEZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+708|SAGA89061482A|ALEJANDRA NALLELY SAUCEDO GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+709|SAGC441101S89|CLISERIO SANDOVAL GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+710|SAGC740825KH7|CONSUELO DEL CARMEN SANCHEZ GAONA|87800|El Código Postal no coincide con el registrado en el RFC.
+711|SAGC7805193V3|CRISTINA SANDOVAL GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+712|SAGE711013544|MARIA ESTHER SANCHEZ GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+713|SAGJ750131RP6|JUAN PILAR SANCHEZ GUERRERO|87800|El Código Postal no coincide con el registrado en el RFC.
+714|SAGJ830906RY8|JOAQUIN SANCHEZ GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+715|SAGK9108265U1|KARLA JUDITH SANCHEZ GALLEGOS|87800|El Código Postal no coincide con el registrado en el RFC.
+716|SAGO4107226K4|OSCAR SALDIERNA GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+717|SAGS680712TG7|SANJUANA LILIA SANCHEZ GALICIA|87800|El Código Postal no coincide con el registrado en el RFC.
+718|SAGS8501179A5|SUSANA AIDE SANDOVAL GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+719|SAGY8010042Z3|YENNY SALDAÃ?A GUERRERO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+720|SAHA640406CK7|ARACELY SALAS HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+721|SAHB881216MK5|BELEN SANCHEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+722|SAHC800722FU2|CRUZ ALBERTO SAINZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+723|SAHG670428S55|GRISELDA SAGASTEGUI HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+724|SAHH7709029S2|HECTOR SANCHEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+725|SAHM791222649|MARCO ANTONIO SALAZAR HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+726|SAHV840211136|VIRIDIANA SALDIVAR HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+727|SAJE740524BW4|ERIKA XOCHITL SALDAÃ?A JACQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+728|SALF721004972|FLOR IDALIA SANTILLANA LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+729|SALG680308G82|GLADIS VERONICA SALDAÃ?A LARA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+730|SALM890713GV2|MELANNY ALEJANDRA SALDAÃ?A DE LEIJA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+731|SALO850415RY5|OSCAR SAN MARTIN LARA|87800|El Código Postal no coincide con el registrado en el RFC.
+732|SAMC7501293X9|MARIA DEL CARMEN DE LOS SANTOS MEDELLIN|87800|El Código Postal no coincide con el registrado en el RFC.
+733|SAMC850828359|CARMEN ARELY SANCHEZ MARQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+734|SAMC870503QP4|CLAUDIA LUZ SANCHEZ MONTELONGO|87800|El Código Postal no coincide con el registrado en el RFC.
+735|SAME681102SG7|ELIGIO SANCHEZ MEZA|87800|El Código Postal no coincide con el registrado en el RFC.
+736|SAME771112NY3|EDNA AYDEE SALAS MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+737|SAMI711017FI0|IRMA ORALIA SANDOVAL MORENO|87800|El Código Postal no coincide con el registrado en el RFC.
+738|SAMJ560420FK3|JORGE SALDAÃ?A MANSILLA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+739|SAMJ730309393|JORGE ROSALINO SANDOVAL MEDELLIN|87800|El Código Postal no coincide con el registrado en el RFC.
+740|SAMP860620KZ1|PRISCILLA SAENZ MARQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+741|SAMR670801Q97|MA. DEL ROSARIO SALDAÃ?A MANSILLA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+742|SANL890421BU6|JOSE LUIS SANTANA NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+743|SAOR751018JD5|ROSA ELENA SALAS OLIVARES|87800|El Código Postal no coincide con el registrado en el RFC.
+744|SAOS610821BF5|MARIA DEL SOCORRO SANCHEZ OVIEDO|87800|El Código Postal no coincide con el registrado en el RFC.
+745|SAPA890218320|ALEJANDRA SANCHEZ PIÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+746|SAPC451208QP3|CONCEPCION VENTURA SANCHEZ PADRON|87800|El Código Postal no coincide con el registrado en el RFC.
+747|SAPL880915PW1|LILIA KARMINA SANCHEZ PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+748|SAPM820310NX3|MIRIAM IDALIA SANCHEZ PORTES|87800|El Código Postal no coincide con el registrado en el RFC.
+749|SAPP900827QS4|PLACIDO DE JESUS SANCHEZ PAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+750|SARB850908378|BEATRIZ ADRIANA SALAZAR RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+751|SARB870217HZA|BRENDA LILIET SALAZAR RUIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+752|SARJ8807104P1|JESUS SANDOVAL REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+753|SARM7607107R5|MARIO SANTOS RIBERA|87800|El Código Postal no coincide con el registrado en el RFC.
+754|SARO830502PJ4|OSCAR SANTIAGO ROSALINO|87800|El Código Postal no coincide con el registrado en el RFC.
+755|SARR750107GF9|RUTH ELIZABETH SALINAS RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+756|SARR940525GL5|RAMON ROBERTO SANTOS RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+757|SARY821026TR0|YAMILLETT SANTOS REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+758|SASC841011CH7|CARLOS JAVIER SANTOS SALDIVAR|87800|El Código Postal no coincide con el registrado en el RFC.
+759|SASD7708099CA|DAVID EDUARDO SALINAS SANTOYO|87800|El Código Postal no coincide con el registrado en el RFC.
+760|SASD9308177IA|DANIEL ISMAEL SANCHEZ SARIÃ?ANA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+761|SASN690215Q83|NOHELIA SALDIVAR SALDIVAR|87800|El Código Postal no coincide con el registrado en el RFC.
+762|SASN740818553|NORMA SALAZAR SALAZAR|87800|El Código Postal no coincide con el registrado en el RFC.
+763|SATA811218P11|ADRIAN SALDIVAR TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+764|SATF670527M43|JOSE FRANCISCO SAMPERIO TREJO|87800|El Código Postal no coincide con el registrado en el RFC.
+765|SATM710118F39|MIGUEL ANGEL SANTELLAN TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+766|SATV790220HM9|VICTOR DANIEL SANTIBAÃ?EZ TREJO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+767|SATX701122FS0|XOCHITL PATRICIA SALAS TOVIAS|87800|El Código Postal no coincide con el registrado en el RFC.
+768|SAVJ680430BYA|JAIME SANCHEZ VEGA|87800|El Código Postal no coincide con el registrado en el RFC.
+769|SAVL7408039Y9|LUIS EFRAIN SANCHEZ VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+770|SAVN8007128H1|NORMA ELOISA SALAZAR VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+771|SAVP7811177C4|PEDRO ALBERTO SAUCEDO VALDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+772|SAYM640216GY6|MIRNA ANGELICA SALAS YAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+773|SECE750407CX2|EPIFANIA SERNA CHAVEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+774|SEFH7005167Q1|HELMUT ALLAN SCHWEBEL DE LA FUENTE|87800|El Código Postal no coincide con el registrado en el RFC.
+775|SEMB900703TP3|BRIANDA MARLIN SEPULVEDA MANDUJANO|87800|El Código Postal no coincide con el registrado en el RFC.
+776|SEME820311HX5|ELIDA GUADALUPE SERENO MUÃ?IZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+777|SEMJ710402TI4|JUAN GILBERTO SEVILLA MONTOYA|87800|El Código Postal no coincide con el registrado en el RFC.
+778|SEPA890224V1A|AARON ARNALDO SELVERA PARADA|87800|El Código Postal no coincide con el registrado en el RFC.
+779|SERA650304BN6|ALFONSO SERNA REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+780|SERE870408IR0|EDGAR ALFREDO SERRANO REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+781|SERH5810034I0|JOSE HUMBERTO SELVERA RUIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+782|SETD851027FL5|DORA ANGELICA SEGURA TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+783|SIAL810310KJ8|LILIA EDITH SILVA AVILES|87800|El Código Postal no coincide con el registrado en el RFC.
+784|SICC9007104K9|CARLOS ANTONIO SILVA CANTU|87800|El Código Postal no coincide con el registrado en el RFC.
+785|SIEM670726FM1|MARIANA SILVA ESPARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+786|SIPC751029RR3|CARLOS SILGUERO PONCE|87800|El Código Postal no coincide con el registrado en el RFC.
+787|SIRA8310026H2|JOSE ANGEL SIFUENTES REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+788|SITL750630UB6|JOSE LUIS SILVA TREVIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+789|SIYR6210069Q1|ROSA DELIA SIFUENTES YAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+790|SIZA720602F67|ARTURO MARCELINO SILVA ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+791|SOBL8905182A9|LUZ ELENA STOLBERG BECERRA|87800|El Código Postal no coincide con el registrado en el RFC.
+792|SOCC860104I59|CARLOS IVAN SOLIS CASTAÃ?EDA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+793|SOCH760202FJ6|HECTOR HUGO SOSA CUENCA|87800|El Código Postal no coincide con el registrado en el RFC.
+794|SOCI780718IG6|IVAN SOSA CARMONA|87800|El Código Postal no coincide con el registrado en el RFC.
+795|SOCI801124TK2|ISRAEL SOSA CARMONA|87800|El Código Postal no coincide con el registrado en el RFC.
+796|SOCJ7206248Q3|JUANA SOTO CASTRO|87800|El Código Postal no coincide con el registrado en el RFC.
+797|SOCM751209JC8|MAYRA MAYELA SOLIS CANTU|87800|El Código Postal no coincide con el registrado en el RFC.
+798|SOGF800918A2A|JOSE FRANCISCO SCOTT GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+799|SOGN860125PZ8|NUVIA ALEJANDRA SOTO GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+800|SOHG821227DSA|GEORGINA SOTO HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+801|SOHM750107QK0|MARLEN DE LA SOTA HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+802|SOLJ910121R23|JESSICA ELIZABETH SOLIS LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+803|SOMM630806HN0|MARIO JOSE SOLIS MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+804|SUGM840926SF9|MAGDHA SUAREZ GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+805|SUOA771203SN1|ALVARO RAMSES SUAREZ OJEDA|87800|El Código Postal no coincide con el registrado en el RFC.
+806|SURJ7303047H7|JORGE LUIS SUAREZ RIOS|87800|El Código Postal no coincide con el registrado en el RFC.
+807|SURJ8802074C4|JAZMIN DONNAJI SUAREZ RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+808|TACN8506277Z4|NIVER IVAN TARQUI CALLEJAS|87800|El Código Postal no coincide con el registrado en el RFC.
+809|TADG8605261V3|GILBERTO TAVITAS DECILOS|87800|El Código Postal no coincide con el registrado en el RFC.
+810|TAGD8212159F7|DENISSE GUADALUPE TAPIA GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+811|TALE910626LF0|ERIKA PAOLA TAPIA LEAL|87800|El Código Postal no coincide con el registrado en el RFC.
+812|TAPA800111880|ALEJANDRA GUADALUPE TAVASCI POSADAS|87800|El Código Postal no coincide con el registrado en el RFC.
+813|TAYM730422JB8|MARTHA ELIA TAMAYO YAÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+814|TEBA901029DV7|ALINA ITZAMARA TREVIÃ?O BRISEÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+815|TEBV811017FU6|VICTOR MANUEL TREJO BARRON|87800|El Código Postal no coincide con el registrado en el RFC.
+816|TECA881123H27|ALEJANDRA TERRAZAS CERVANTES|87800|El Código Postal no coincide con el registrado en el RFC.
+817|TEDE750117AQ0|EVELYN TELLO DOMINGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+818|TEDE861202UC6|ELISA GUADALUPE TREJO DAVILA|87800|El Código Postal no coincide con el registrado en el RFC.
+819|TEER630512B92|ROSA MARIA TELLO ESQUIVEL|87800|El Código Postal no coincide con el registrado en el RFC.
+820|TEFL850902JSA|LUCIA FABIOLA TREVIÃ?O FLORES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+821|TEFY710827975|YESICA YAMINA TERAN FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+822|TEGK8209271K9|KARLA MARITZA TELLO GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+823|TEGO8609234D3|OSIEL TREJO GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+824|TEGO911214I77|OSCAR EDUARDO TREVIÃ?O GARCIA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+825|TEHJ9007101D8|JONATHAN ALBERTO TREJO HONORATO|87800|El Código Postal no coincide con el registrado en el RFC.
+826|TEHY631124P59|YOLANDA TREVIÃ?O HERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+827|TENC721108LU8|CLAUDIA LORENA TELLO NARANJO|87800|El Código Postal no coincide con el registrado en el RFC.
+828|TEND551207RU2|DELIA TREVIÃ?O NAVARRO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+829|TEPS741224CP2|SALVADOR DE JESUS TENORIO PIZANO|87800|El Código Postal no coincide con el registrado en el RFC.
+830|TERD740723SS9|DALILA TREVIÃ?O RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+831|TERE7508158K8|EDGAR ORLANDO TREVIÃ?O RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+832|TERI860127F93|ISELA GUADALUPE TREVIÃ?O RIVERA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+833|TERJ680519NI3|JOSE TREVIÃ?O RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+834|TERR720327NR2|RODOLFO TREVIÃ?O RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+835|TESE820911V79|MARIA ELENA TREVIÃ?O SILVA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+836|TESE830830SD9|EDER GIOVANNI TREVIÃ?O SAUCEDO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+837|TESM781229SV1|MAGDA NELY TREVIÃ?O SAENZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+838|TESS760425B85|SALOMON TREVIÃ?O SEPULVEDA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+839|TETA900815KJ3|ANA DELIA TREVIÃ?O TAVARES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+840|TETJ821002JP8|JORGE ARIEL TREVIÃ?O TAVARES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+841|TEVD880112MF7|DEISY TREVIÃ?O VARGAS|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+842|TEVI8708185Y9|ILEANA TREVIÃ?O VIDAÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+843|TEVS661007CD9|SERGIO TELLEZ DEL VALLE|87800|El Código Postal no coincide con el registrado en el RFC.
+844|TEVZ800711E22|ZULEMA TREJO VILLEGAS|87800|El Código Postal no coincide con el registrado en el RFC.
+845|TIAA770318FX8|MARIA DE LOS ANGELES TIJERINA ALFEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+846|TICE800519185|EFREN TINAJERO CARREON|87800|El Código Postal no coincide con el registrado en el RFC.
+847|TICJ8209202DA|JUAN MANUEL TIJERINA CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+848|TICS690721FX8|SERVANDO TRINIDAD CASTELLANOS|87800|El Código Postal no coincide con el registrado en el RFC.
+849|TILJ690311DT8|JAVIER TIJERINA LIRA|87800|El Código Postal no coincide con el registrado en el RFC.
+850|TIPI761122KL4|ILIANA CECILIA TIRADO PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+851|TOAN770303CQ7|NESTOR TOSCANO ARTEAGA|87800|El Código Postal no coincide con el registrado en el RFC.
+852|TOBG781123K22|MARIA GUADALUPE TORRES BRAVO|87800|El Código Postal no coincide con el registrado en el RFC.
+853|TOBM920620CB0|MANUEL ALEJANDRO TORRES BAEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+854|TOCC561220SE9|MA. DEL CARMEN TORRES CASTAÃ?ON|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+855|TOCJ900331526|JESSICKA SAMANTHA TORRES CERDA|87800|El Código Postal no coincide con el registrado en el RFC.
+856|TODC810609FA7|CYNTHIA VERONICA TORRES DIAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+857|TOGE8903314L2|JOSE EMMANUEL TORRES GALVAN|87800|El Código Postal no coincide con el registrado en el RFC.
+858|TOGJ820624TE7|JUANA TORRES GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+859|TOGK850619LE7|KARLA LETICIA TOVAR GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+860|TOGS630428BJ4|SERGIO ALBERTO TORRES GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+861|TOHA7808065F0|JOSE ALFREDO TORRES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+862|TOHI851015JJ2|MARIA ISABEL TORRES HUERTA|87800|El Código Postal no coincide con el registrado en el RFC.
+863|TOHL710206196|LUZ DAMIANA TORRES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+864|TOHM8511042V1|MIRIAM AZENETH TORRES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+865|TOHO660305PI5|OLIVIA TORRES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+866|TOHS920109L14|SAYURI EDDALID TORRES HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+867|TOIA561216FE8|ADELAIDA TORRES IBARRA|87800|El Código Postal no coincide con el registrado en el RFC.
+868|TOLJ660617RH8|MA DE JESUS TORRES LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+869|TOMD8105121E5|DACIA IDALIA TORRES MARIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+870|TOMI870720G10|IRMA YANETH TORRES MOCTEZUMA|87800|El Código Postal no coincide con el registrado en el RFC.
+871|TOPL621226MJ6|LETICIA TOSCANO PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+872|TOPS831103JD4|SONIA ISABEL TORRES PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+873|TORA8203197T5|JOSE ANGEL HUMBERTO TORRES ROMERO|87800|El Código Postal no coincide con el registrado en el RFC.
+874|TORJ890924C8A|JAVIER TORRES RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+875|TOSN920927762|NELIDA ELIZABETH TORIBIO SOLIS|87800|El Código Postal no coincide con el registrado en el RFC.
+876|TOSS590123UF6|SIMON TOVIAS SAUCEDA|87800|El Código Postal no coincide con el registrado en el RFC.
+877|TOTA871017TVA|JOSE ALEJANDRO TORRES TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+878|TOTG9502288R6|GABRIELA TOVAR TOVAR|87800|El Código Postal no coincide con el registrado en el RFC.
+879|TOVB890716C80|BRENDA ISABEL TORRES VELEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+880|TOVS871208HW0|SIMON EMMANUEL TOVIAS VILLASANA|87800|El Código Postal no coincide con el registrado en el RFC.
+881|TOVV930429H31|VICTOR AARON TOVIAS VILLASANA|87800|El Código Postal no coincide con el registrado en el RFC.
+882|TUAF871018DWA|MARIA FERNANDA TRUJILLO AMAYA|87800|El Código Postal no coincide con el registrado en el RFC.
+883|TUML6611201D7|LAURA TURRUBIATES MOCTEZUMA|87800|El Código Postal no coincide con el registrado en el RFC.
+884|TUPJ600825CE7|MA. DE JESUS TRUJILLO PALOMINO|87800|El Código Postal no coincide con el registrado en el RFC.
+885|TURA770825D88|ALMA EDUWIGES TURRUBIATES RIOS|87800|El Código Postal no coincide con el registrado en el RFC.
+886|UACE920213H90|ELIZABETH JEANETTE USCANGA CHONG|87800|El Código Postal no coincide con el registrado en el RFC.
+887|UALE830909DH2|EDNA MARIBEL UVALLE LIMON|87800|El Código Postal no coincide con el registrado en el RFC.
+888|UIHN891208M28|NANCY URIBE HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+889|UILE911108HW2|EZEQUIEL RUBEN URBINA LINARES|87800|El Código Postal no coincide con el registrado en el RFC.
+890|UIMJ900209B83|JESSICA NALLELY URBINA MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+891|UIRM650924816|MARIA DE LAS MERCEDES URIBE RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+892|VAAA7808085Y7|ADA YADIRA VARGAS ARIZAVALO|87800|El Código Postal no coincide con el registrado en el RFC.
+893|VAAC811122T44|CECILIA VALENZUELA DEL ANGEL|87800|El Código Postal no coincide con el registrado en el RFC.
+894|VAAF711030RY2|FORTUNATO VARELA ALCOCER|87800|El Código Postal no coincide con el registrado en el RFC.
+895|VAAK7803037G0|KARLA VAZQUEZ ARGUELLO|87800|El Código Postal no coincide con el registrado en el RFC.
+896|VAAM720927GK8|MARTIN VALLES ALVAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+897|VAAR750917PH4|ROSA ARIADNA VAZQUEZ AVALOS|87800|El Código Postal no coincide con el registrado en el RFC.
+898|VABF710130PN0|FRANCISCA VAZQUEZ BERNALES|87800|El Código Postal no coincide con el registrado en el RFC.
+899|VABG7704068C2|GLORIA ARACELY VALDEZ BRIZEÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+900|VABV840928LS0|VANESSA SELENE VALDEZ BARBOSA|87800|El Código Postal no coincide con el registrado en el RFC.
+901|VACA830816IR5|AMERICO VAZQUEZ CHAIRES|87800|El Código Postal no coincide con el registrado en el RFC.
+902|VACF790822C87|FELIX VALADEZ CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+903|VACF8001143F1|MARIA FRANCISCA VALLIN CONTRERAS|87800|El Código Postal no coincide con el registrado en el RFC.
+904|VACS890109K65|SHEILA ADRIANA VAZQUEZ CASTAÃ?EDA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+905|VADD821211KX3|DANIELA VAZQUEZ DIAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+906|VAEJ830516DR3|JUANA ARACELI VAZQUEZ ESPINOZA|87800|El Código Postal no coincide con el registrado en el RFC.
+907|VAFK791111HP5|KLAUDIA MARILU VALLADARES FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+908|VAFM840825L51|MONICA VAZQUEZ FORTUNA|87800|El Código Postal no coincide con el registrado en el RFC.
+909|VAFV780916DKA|VIVIANA MARGARITA VALDEZ FLORES|87800|El Código Postal no coincide con el registrado en el RFC.
+910|VAGL940325HC8|LEONEL OSVALDO VAZQUEZ GUEVARA|87800|El Código Postal no coincide con el registrado en el RFC.
+911|VAGS6112215BA|SERGIO ARTURO VANOYE GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+912|VAHA881118TE6|ANA VANESSA VAZQUEZ HERRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+913|VAHS640909U80|SANTOS VAZQUEZ HERNANDEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+914|VAHY831009556|YESENIA VAZQUEZ HERRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+915|VALC831217K80|CIPRIANO VALENZUELA LUCIO|87800|El Código Postal no coincide con el registrado en el RFC.
+916|VALD810727VD9|DENISSE VARGAS LERMA|87800|El Código Postal no coincide con el registrado en el RFC.
+917|VALG750829NN4|GUILLERMO VARGAS LORA|87800|El Código Postal no coincide con el registrado en el RFC.
+918|VAMA830905296|ARACELY VAZQUEZ MARQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+919|VAMJ7511038T8|JUAN RAMON VARGAS MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+920|VAMK760311LGA|KARINA JANNET VACIO MURO|87800|El Código Postal no coincide con el registrado en el RFC.
+921|VAMM7808265F2|MARIA MAGDALENA VAZQUEZ MUÃ?IZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+922|VAOE9309166B9|ESTEFANY MELISA VAZQUEZ ORTIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+923|VAOS660501IS4|SONIA EDITH VAZQUEZ ORTIZ|87800|El Código Postal no coincide con el registrado en el RFC.
+924|VAPA710106KH5|AIDA DE LOS REYES VARGAS PEÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+925|VAQG921128LM2|GABRIELA VAZQUEZ QUIJANO|87800|El Código Postal no coincide con el registrado en el RFC.
+926|VARB561212662|BLANCA GUADALUPE VALLES RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+927|VARD810209HF5|DANIEL IGNACIO VALLEJO REQUENA|87800|El Código Postal no coincide con el registrado en el RFC.
+928|VARI850703FZ2|INDELIZA VALDEZ ROMERO|87800|El Código Postal no coincide con el registrado en el RFC.
+929|VARJ810421U76|JORGE IVAN VAZQUEZ RIOS|87800|El Código Postal no coincide con el registrado en el RFC.
+930|VASB911011BX6|BRENDA NOHEMI VARGAS SALDIERNA|87800|El Código Postal no coincide con el registrado en el RFC.
+931|VASM8603305F3|MARIO VARGAS SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+932|VATL750907A15|LUIS ENRIQUE VAZQUEZ TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+933|VAVD971208BQ5|DALIA PAOLA VAZQUEZ VILLELA|87800|El Código Postal no coincide con el registrado en el RFC.
+934|VAVS861117696|SARA ELOISA VARELA VIDAL|87800|El Código Postal no coincide con el registrado en el RFC.
+935|VAZM8211268Z3|MARIA VAZQUEZ ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+936|VEAE771106BX9|ELDER VELAZQUEZ ARELLANO|87800|El Código Postal no coincide con el registrado en el RFC.
+937|VEAN6606044Y6|NORA HILDA VELAZQUEZ ALVARADO|87800|El Código Postal no coincide con el registrado en el RFC.
+938|VECR6806115DA|ROSALINDA VELAZQUEZ CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+939|VEDA8008275S9|ARTURO DE JESUS VERA DELGADO|87800|El Código Postal no coincide con el registrado en el RFC.
+940|VEDS760806MD6|SUSANA VERBER DIAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+941|VEGJ791225LQ3|JESUS FRANCISCO VELAZQUEZ GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+942|VEHG901211V91|JOSE GUADALUPE VERDIN DE HOYOS|87800|El Código Postal no coincide con el registrado en el RFC.
+943|VELI871120475|ITZEL KRYSTAL GUADALUPE VEGA LOPEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+944|VELP580718RUA|PEDRO ALFONSO VELAZQUEZ LUEVANO|87800|El Código Postal no coincide con el registrado en el RFC.
+945|VEMA6301191J8|AMAURI VELAZQUEZ MATUS|87800|El Código Postal no coincide con el registrado en el RFC.
+946|VEMD780906MEA|MARIA DOLORES VELEZ MUÃ?IZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+947|VEMK780607LPA|KARLA ELIZABETH VELAZQUEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+948|VEMK991127F79|KEVIN BRANDON VELAZQUEZ MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+949|VENE740202NL7|ELVIA BENEDIT VEGA NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+950|VERD851018HE8|DAFNE DEJANIRA VENTURA RECHY|87800|El Código Postal no coincide con el registrado en el RFC.
+951|VERE670426N23|ELISEO VERDIN RENDON|87800|El Código Postal no coincide con el registrado en el RFC.
+952|VESL800829Q98|LUZ VICTORIA MERCEDES VERTIZ SANCHEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+953|VESN870812MQA|NORBERTO MANUEL VEGA SIERRA|87800|El Código Postal no coincide con el registrado en el RFC.
+954|VETA630426GM1|ALMA ROSA VERA TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+955|VETA7711143Y8|ALBERTO VELAZQUEZ TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+956|VEVD7604097D3|MARIA DOLORES VELEZ VIDAURRI|87800|El Código Postal no coincide con el registrado en el RFC.
+957|VEVM8305078I5|MATEO VELAZCO VELAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+958|VIAA910718E55|ALBA VIRIDIANA VILLASANA AGUILAR|87800|El Código Postal no coincide con el registrado en el RFC.
+959|VIAD800502PM7|DIANA OSIRIS VILLEGAS ARAIZA|87800|El Código Postal no coincide con el registrado en el RFC.
+960|VIBY920209AW9|YESSICA RUBI VILLANUEVA BARRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+961|VICC800811P33|CARLOS ALEJANDRO VILLAFUERTE CASTILLO|87800|El Código Postal no coincide con el registrado en el RFC.
+962|VICE760406MR3|ERICA LUCINA VILLARREAL CASTRO|87800|El Código Postal no coincide con el registrado en el RFC.
+963|VIDF801007KC6|FERNANDO GALILEO VILLARREAL DECILOS|87800|El Código Postal no coincide con el registrado en el RFC.
+964|VIER740515LE2|RACIEL IVAN VILLARREAL ESTRADA|87800|El Código Postal no coincide con el registrado en el RFC.
+965|VIGC7512019P0|MARIA DEL CARMEN VITE GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+966|VIGC871115N54|CLAUDIA VILLALOBOS GOMEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+967|VIGJ700914MY4|JOSEFINA VILLARREAL GUTIERREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+968|VIGL7210043Q5|LUIS ARMANDO VILLARREAL GARZA|87800|El Código Postal no coincide con el registrado en el RFC.
+969|VIHM720728C72|MARGARITA VILLEGAS HUERTA|87800|El Código Postal no coincide con el registrado en el RFC.
+970|VILA750306E72|MARIA DE LOS ANGELES VIRUES LOZANO|87800|El Código Postal no coincide con el registrado en el RFC.
+971|VILM780427EE0|MARTIN ALEJANDRO VILLARREAL LEGORRETA|87800|El Código Postal no coincide con el registrado en el RFC.
+972|VILS680716MP3|SAN JUANA DEL CARMEN VILLASANA LARA|87800|El Código Postal no coincide con el registrado en el RFC.
+973|VINA870613L54|ADRIANA VILCHIS NUÃ?EZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+974|VIPR860930HQ4|ROSA EMMA VILLANUEVA PEREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+975|VIRA560117RT4|ANTONIA VILLANUEVA ROJAS|87800|El Código Postal no coincide con el registrado en el RFC.
+976|VIRD731116329|DELIA ESTHER VIRGEN RAMIREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+977|VIRD830324TR8|DEYZI LORENA VILLANUEVA RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+978|VIRD920925410|DANYA JASIHIVE VILLASEÃ?OR ROLDAN|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+979|VIRL650205QW7|LETICIA VILLEGAS RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+980|VIRR650409PE5|MARIA DEL ROCIO VILATA RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+981|VISE6610196Q7|ERICKA VILLANUEVA SORIANO|87800|El Código Postal no coincide con el registrado en el RFC.
+982|VISG801002FA2|GAMALIEL VILLAFUERTE SANTIAGO|87800|El Código Postal no coincide con el registrado en el RFC.
+983|VISJ850104AS1|MARIA DE JESUS VILLAFAÃ?A SANTOYO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+984|VISK850917MT9|KAREN LIZETH VILLAFUERTE SANTIAGO|87800|El Código Postal no coincide con el registrado en el RFC.
+985|VISL630621BN7|JOSE LUIS VILLARREAL SOTELO|87800|El Código Postal no coincide con el registrado en el RFC.
+986|VITM781225B65|MAYRA ELIZABETH VILLARREAL TREVIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+987|VIVA7206199Z3|ALEJANDRO VICENCIO VICENCIO|87800|El Código Postal no coincide con el registrado en el RFC.
+988|VIVA801112J47|ALEJANDRA VILCHIS VAZQUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+989|WADA890701II6|ADDY YAZMIN WALLE DIAZ|87800|El Código Postal no coincide con el registrado en el RFC.
+990|WAGJ820918RJ5|JOSE DE JESUS WALLE GALVAN|87800|El Código Postal no coincide con el registrado en el RFC.
+991|WARA600815T89|ASCENCION WVALLE REQUENA|87800|El Código Postal no coincide con el registrado en el RFC.
+992|WARS881109TVA|SANDRA BEATRIZ WALLE ROCHA|87800|El Código Postal no coincide con el registrado en el RFC.
+993|WICI770421JE0|IRMA ESMERALDA WILBURN COBOS|87800|El Código Postal no coincide con el registrado en el RFC.
+994|WOGJ481123CH9|JUANA MA. WOO GONZALEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+995|YAAE680823IS8|ELEAZAR YAÃ?EZ ARELLANO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+996|YAGY820726MY7|YANETH YADO GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+997|YAHL881112K3A|LUIS DANIEL YAÃ?EZ HERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+998|YAIK881119RM7|KAREN ISABEL YADA IBON|87800|El Código Postal no coincide con el registrado en el RFC.
+999|YARL641218HE6|LUIS FELIPE YAÃ?EZ RODRIGUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1000|YATI7612047Q3|IVONNE YAÃ?EZ TREVIÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1001|YUCP570313TQ8|PATRICIA MARGARITA YRURETAGOYENA CATAÃ?O|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1002|ZAAL631130RJ8|LUZ VERONICA ZAPATA ACUÃ?A|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1003|ZABA870416BN9|ARELI BERENICE ZAMARRIPA BRAMBILA|87800|El Código Postal no coincide con el registrado en el RFC.
+1004|ZAGF830701ESA|FERNANDO SANDY ZAPATA GUERRERO|87800|El Código Postal no coincide con el registrado en el RFC.
+1005|ZAGN800403580|NIDIA CAROLINA ZAPATA GARCIA|87800|El Código Postal no coincide con el registrado en el RFC.
+1006|ZAHL871023274|MARIA DE LOURDES ZAVALA HERRERA|87800|El Código Postal no coincide con el registrado en el RFC.
+1007|ZAID900910LYA|DAMARIS MADAI ZAPATA IBARRA|87800|El Código Postal no coincide con el registrado en el RFC.
+1008|ZAJE871205QQ4|EDWIN FERNANDO ZARATE JUAREZ|87800|El Código Postal no coincide con el registrado en el RFC.
+1009|ZALH620330776|HECTOR MANUEL ZAMORA LIRA|87800|El Código Postal no coincide con el registrado en el RFC.
+1010|ZALR810614NI1|ROSA ELENA ZAPATERO LLAMAS|87800|El Código Postal no coincide con el registrado en el RFC.
+1011|ZAME680413JU6|EMILIANO ZAPATA MORALES|87800|El Código Postal no coincide con el registrado en el RFC.
+1012|ZARH850405NU0|HECTOR ZAMORA REYES|87800|El Código Postal no coincide con el registrado en el RFC.
+1013|ZARJ721209FF3|JUAN LUIS ZARAZUA RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+1014|ZATE780711295|ELIUTH KARIN ZAMORANO TOVIAS|87800|El Código Postal no coincide con el registrado en el RFC.
+1015|ZATH850916N87|HUGO ARMANDO ZARATE TORRES|87800|El Código Postal no coincide con el registrado en el RFC.
+1016|ZELE850115ED3|EDGAR DANIEL ZERMEÃ?O LOPEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1017|ZOSP680405IF2|PATRICIA RAMONA ZOZAYA SALAS|87800|El Código Postal no coincide con el registrado en el RFC.
+1018|ZUAG761107I71|GEORGINA RUTH ZUÃ?IGA ALCALA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1019|ZUCC660511U21|MA. CONCEPCION ZUÃ?IGA CARREON|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1020|ZUCJ911021HLA|JUAN JOSE ZUÃ?IGA CESPEDES|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1021|ZUCL670417LB7|MA. LOURDES ZUÃ?IGA CARBAJAL|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1022|ZUCS820728HU4|SONIA MARICELA ZUÃ?IGA CASTILLO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1023|ZUCT730613C98|MARIA TRINIDAD ZUÃ?IGA CARBAJAL|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1024|ZUGG880827GR5|GILBERTO EFRAIM ZUÃ?IGA GARZA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1025|ZUHS9107132L5|SHEILA ZUUGEY ZUÃ?IGA HERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1026|ZUHS950501KH7|SONIA YARLETH ZUÃ?IGA HERNANDEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1027|ZUIN811021FN3|NANCY AGAPITA ZUÃ?IGA IBARRA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1028|ZUJA840703754|ALEJANDRO ROMAN ZUÃ?IGA JIMENEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1029|ZUJL8205156V1|LLUVIA ROCIO ZUÃ?IGA JIMENEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1030|ZULC820414LR9|CRISTINA ZUÃ?IGA LUNA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1031|ZULG640625968|JOSE GUILLERMO ZUÃ?IGA LEDEZMA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1032|ZULJ680320EV5|JUAN GUADALUPE ZUÃ?IGA LOPEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1033|ZULZ661219FQ2|ZERAFIN ZUÃ?IGA LUNA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1034|ZUMA830320232|ALEJANDRO ZUÃ?IGA MANZANO|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1035|ZUMD730923J84|DENIS BALDEMAR ZUÃ?IGA MANRIQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1036|ZUML700703SRA|LUCILA ZUÃ?IGA MACIAS|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1037|ZUMN651122HLA|NORMA PATRICIA ZUÃ?IGA MACIAS|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1038|ZUMN920513EZ3|NELLY ELIZABETH ZURITA MARTINEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+1039|ZUPE8506262B9|ERIKA ZULEMA ZUÃ?IGA PEREZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1040|ZURE6608153T8|EDIT ZURITA RODRIGUEZ|87800|El Código Postal no coincide con el registrado en el RFC.
+1041|ZURJ681201H50|JUAN JOSE ZUÃ?IGA DE LA ROSA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1042|ZUSA820731EX0|JOSE ANGEL ZUÃ?IGA SILVA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1043|ZUSB8506196B9|BRENDA MARGARITA ZUÃ?IGA SANCHEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1044|ZUSJ8107031S7|JUANA JANETH ZUÃ?IGA SEYDLER|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1045|ZUVC690503KZ5|CRUZ ADRIAN ZUÃ?IGA VAZQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1046|ZUVN700714B70|NANCY LILIANA ZUÃ?IGA VAZQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1047|ZUVN820911M86|NORELY ZUÃ?IGA VILLANUEVA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1048|ZUVN830905QH9|NOE IVAN ZUÃ?IGA VAZQUEZ|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+1049|ZUZJ6310201P8|JUANA ZUÃ?IGA ZUÃ?IGA|87800|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
