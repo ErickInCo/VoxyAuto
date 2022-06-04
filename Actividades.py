@@ -7,6 +7,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import ElementNotInteractableException
+from selenium.common.exceptions import StaleElementReferenceException
+from selenium.common.exceptions import ElementClickInterceptedException
+
 
 import time
 
@@ -92,7 +95,7 @@ if (tActividad=="LISTENING ACTIVITY"):
     t2Actividad=nombre.find_element(By.CSS_SELECTOR,'div[class="name"]')
     t2Actividad= t2Actividad.text
     print(t2Actividad)
-    if (t2Actividad=="Hear Me Out"):
+    if (t2Actividad=="Hear Me Out"): #checado 2
         # Iniciar la actividad
         WebDriverWait(driver,25)\
             .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.start-button.btn.btn-primary.btn-large.theme-primary-button")))\
@@ -108,6 +111,8 @@ if (tActividad=="LISTENING ACTIVITY"):
         print(total)
         # Ciclar hasta terminar las preguntas
         x=1
+        
+        
         while x <= total:
             WebDriverWait(driver,25)\
                 .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'span.current')))\
@@ -115,20 +120,34 @@ if (tActividad=="LISTENING ACTIVITY"):
             actual=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
             actual=actual.text
             actual=int(actual)
-            print(str(actual)+" / "+str(total))
+            print(str(actual)+" / "+str(total)+ "  "+str(x))
             if actual==x:
-                WebDriverWait(driver,25)\
-                    .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'a[data-correctness="true"]')))\
-                    .click()
+                try:
+                    WebDriverWait(driver,25)\
+                        .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'a[data-correctness="true"]')))\
+                        .click()
+                except ElementClickInterceptedException:
+                    pass
+                actual2=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
+                actual2=actual2.text
+                try:
+                    actual2=int(actual2)
+                except ValueError:
+                    actual2=total
+                    x=total+1
+                finally:
+                    actual2=actual
+            if actual2!=actual:
                 x+=1
-            else:
-                x-=1
-        WebDriverWait(driver,25)\
-            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-            .click()
+        try:
+            WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+                .click()
+        finally:
+            pass
         print(t2Actividad)
 
-    elif (t2Actividad=="Soundbite"):
+    elif (t2Actividad=="Soundbite"): #checado
          # ol path
         # //*[@id="content"]/div[3]/div/div[2]/div/div[2]/ol
         # Iniciar la actividad
@@ -182,16 +201,16 @@ if (tActividad=="LISTENING ACTIVITY"):
                 x+=1
             else:
                 print("No avanza")
-        WebDriverWait(driver,25)\
-            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-            .click()
+        try:
+            WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+                .click()
+        finally:
+            pass
         print(t2Actividad)
         
-    elif (t2Actividad=="Watch And Learn"):
-        # Watch and Learn
-        # //*[@id="content"]/div[3]/div/div[2]/div/div[2]/div/div/ol/li[1]
-        # Esperar a que este
-        # video-quiz-question displayed active
+    elif (t2Actividad=="Watch And Learn"): #checado 2
+
         # Iniciar la actividad
         WebDriverWait(driver,25)\
             .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.start-button.btn.btn-primary.btn-large.theme-primary-button")))\
@@ -214,23 +233,41 @@ if (tActividad=="LISTENING ACTIVITY"):
             actual=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
             actual=actual.text
             actual=int(actual)
-            print(str(actual)+" / "+str(total))
+            print(str(actual)+" / "+str(total)+ "  "+str(x))
             if actual==x:
-                WebDriverWait(driver,25)\
-                    .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'a[data-correctness="true"]')))\
-                    .click()
+                try:
+                    WebDriverWait(driver,25)\
+                        .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'a[data-correctness="true"]')))\
+                        .click()
+                except StaleElementReferenceException:
+                    pass
+                finally:
+                    pass
+                actual2=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
+                actual2=actual2.text
+                try:
+                    actual2=int(actual2)
+                except ValueError:
+                    actual2=total
+                    x=total+1
+                finally:
+                    actual2=actual
+            if actual2!=actual:
                 x+=1
-            else:
-                x-=1
-        WebDriverWait(driver,25)\
-            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-            .click()
+        try:
+            WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+                .click()
+        except TimeoutException:
+            pass
+        finally:
+            pass
         
         print(t2Actividad)
     else:
         print("No supe que sub actividad")
 
-elif (tActividad=="Déjà vu"):
+elif (t2Actividad=="Déjà Vu"): #checado 3
     # dejavu 
     # Esperar a que salga <div class="word">
     # Obtener los 3 o 4 contenedores \/
@@ -275,13 +312,18 @@ elif (tActividad=="Déjà vu"):
             x+=1
         else:
             x-=1
-    WebDriverWait(driver,25)\
-        .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-        .click()
 
+    try:
+        WebDriverWait(driver,25)\
+            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+            .click()
+    except TimeoutException:
+            pass
+    finally:
+        pass
     print(tActividad)
 
-elif (tActividad=="What Is It?" or t2Actividad=="What Is It?"):
+elif (tActividad=="What Is It?" or t2Actividad=="What Is It?"): #checado 1
     # //*[@id="content"]/div[3]/div/div[2]/div/div[2]/div[1]/ol
     # Iniciar la actividad
     WebDriverWait(driver,25)\
@@ -299,7 +341,7 @@ elif (tActividad=="What Is It?" or t2Actividad=="What Is It?"):
     # total=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[2]')
     total=total.text
     total=int(total)
-    print(total)
+    # print(total)
     # Ciclar hasta terminar las preguntas
     x=1
     while x <= total:
@@ -309,42 +351,60 @@ elif (tActividad=="What Is It?" or t2Actividad=="What Is It?"):
         actual=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
         actual=actual.text
         actual=int(actual)
-        print(str(actual)+" / "+str(total))
+        print(str(actual)+" / "+str(total)+ "  "+str(x))
         if actual==x:
-            resultados = driver.find_element_by_xpath('//*[@id="content"]/div[3]/div/div[2]/div/div[2]/div[1]/ol')
+            # resultados = driver.find_element_by_xpath('//*[@id="content"]/div[3]/div/div[2]/div/div[2]/div[1]/ol')
+            resultados = driver.find_element_by_css_selector('div.word.hide[style="display: block;"]')
+            
             primer = resultados.find_elements(By.TAG_NAME,'li')
+            ban=0
             for e in primer:
                 if e.get_attribute('innerHTML').find("distractor_") ==-1:
                     inicio=e.get_attribute('innerHTML').find('d="')
                     fin=e.get_attribute('innerHTML')[inicio+3:].find('"')
                     idbuscar=e.get_attribute('innerHTML')[inicio+3:inicio+3+fin]
-                    # print(idbuscar)
+
                     b='a[data-answer-id="'+idbuscar+'"]'
-                    # print(b)
-                    # WebDriverWait(driver,25)\
-                    #     .until(EC.element_to_be_clickable((By.CSS_SELECTOR,b)))\
-                    #     .click()
+                    
                     action = ActionChains(driver)
                     source= e.find_element(By.CSS_SELECTOR,b)
                     try:
                         action.double_click(source).perform()
                     except ElementNotInteractableException:
                         print(b)
-            x+=1
+            actual2=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
+            actual2=actual2.text
+            try:
+                actual2=int(actual2)
+            except ValueError:
+                actual2=total
+                x=total+1
+            finally:
+                actual2=actual     
+            x+=1        
         else:
             print("No avanza")
-    WebDriverWait(driver,25)\
-        .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-        .click()
+            
+            
+    try:
+        WebDriverWait(driver,25)\
+            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+            .click()
+    except TimeoutException:
+        pass
+    finally:
+        pass
     print(tActividad)
-elif (tActividad=="Reading activity"):
-    t2Actividad=driver.find_element_by_xpath('/html/body/div[2]/div[3]/div/div[2]/div/div[1]/div/div[2]/div[2]')
+elif (tActividad=="READING ACTIVITY"):
+    
+    t2Actividad=driver.find_element_by_xpath('/html/body/div[2]/div[3]/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div[2]/div[2]')
     t2Actividad= t2Actividad.text
     print(t2Actividad)
-    if (t2Actividad=="Mind The Gap"):
+    if (t2Actividad=="Mind The Gap"): #checado 3
         # ol path
         # //*[@id="content"]/div[3]/div/div[2]/div/div[2]/ol
         # Iniciar la actividad
+        # start-button btn btn-primary btn-large theme-primary-button
         WebDriverWait(driver,25)\
             .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.start-button.btn.btn-primary.btn-large.theme-primary-button")))\
             .click()
@@ -368,26 +428,35 @@ elif (tActividad=="Reading activity"):
             actual=int(actual)
             print(str(actual)+" / "+str(total))
             if actual==x:
-                resultados = driver.find_element_by_xpath('//*[@id="content"]/div[3]/div/div[2]/div/div[2]/ol')
+                resultados = driver.find_element_by_xpath('/html/body/div[2]/div[3]/div/div[2]/div/div[2]/ol')
                 primer = resultados.find_elements(By.TAG_NAME,'li')
                 for e in primer:
                     if e.get_attribute('innerHTML').find("distractor_") ==-1:
-                        inicio=e.get_attribute('innerHTML').find('data-answer-id="')
+                        inicio=e.get_attribute('innerHTML').find('d="')
                         fin=e.get_attribute('innerHTML')[inicio+3:].find('"')
-                        idbuscar=e.get_attribute('innerHTML')[inicio:inicio+fin]
+                        idbuscar=e.get_attribute('innerHTML')[inicio+3:inicio+3+fin]
                         print(idbuscar)
                         buscarElemento='a['+idbuscar+'"]'
-                    WebDriverWait(driver,25)\
-                        .until(EC.element_to_be_clickable((By.CSS_SELECTOR,buscarElemento)))\
-                        .click()
+                        b='a[data-answer-id="'+idbuscar+'"]'
+                        action = ActionChains(driver)
+                        source= e.find_element(By.CSS_SELECTOR,b)
+                        try:
+                            action.double_click(source).perform()
+                        except ElementNotInteractableException:
+                            print(b)
                 x+=1
             else:
-                x-=1
-        WebDriverWait(driver,25)\
-            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-            .click()
+                print("No avanza")
+        try:
+            WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+                .click()
+        except TimeoutException:
+            pass
+        finally:
+            pass
         print(t2Actividad)
-    elif (t2Actividad=="Read Out"):
+    elif (t2Actividad=="Read Out"): #checado
         # Iniciar la actividad
         WebDriverWait(driver,25)\
             .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.start-button.btn.btn-primary.btn-large.theme-primary-button")))\
@@ -410,17 +479,31 @@ elif (tActividad=="Reading activity"):
             actual=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
             actual=actual.text
             actual=int(actual)
-            print(str(actual)+" / "+str(total))
+            print(str(actual)+" / "+str(total)+ "  "+str(x))
             if actual==x:
-                WebDriverWait(driver,25)\
-                    .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'a[data-correctness="true"]')))\
-                    .click()
+                try:
+                    WebDriverWait(driver,25)\
+                        .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'a[data-correctness="true"]')))\
+                        .click()
+                except StaleElementReferenceException:
+                    pass
+                actual2=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
+                actual2=actual2.text
+                try:
+                    actual2=int(actual2)
+                except ValueError:
+                    actual2=total
+                    x=total+1
+                finally:
+                    actual2=actual
+            if actual2!=actual:
                 x+=1
-            else:
-                x-=1
-        WebDriverWait(driver,25)\
-            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-            .click()
+        try:
+            WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+                .click()
+        finally:
+            pass
         print(t2Actividad)
     else:
         print("No se que subactivida es")
@@ -430,11 +513,70 @@ elif (tActividad=="Picture Perfect" or t2Actividad=="Picture Perfect"):
 elif (tActividad=="Spellbreaker"):
     print(tActividad)
     x = input()
-elif (tActividad.find("Grammar")!=-1 or t2Actividad=="Fragmentstein"):
+elif (tActividad.find("Grammar")!=-1 or t2Actividad=="Fragmentstein"): #checado
     print(tActividad)
-    x = input()
-else:
-    print("No se que actividad es")
+    # x = input()
+    t2Actividad=driver.find_element_by_xpath('/html/body/div[2]/div[3]/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div[2]/div[2]')
+    t2Actividad= t2Actividad.text
+    print(t2Actividad)
+    if (t2Actividad=="Fragmentstein"):
+        # ol path
+        # //*[@id="content"]/div[3]/div/div[2]/div/div[2]/ol
+        # Iniciar la actividad
+        # start-button btn btn-primary btn-large theme-primary-button
+        WebDriverWait(driver,25)\
+            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.start-button.btn.btn-primary.btn-large.theme-primary-button")))\
+            .click()
+        # Esperar a que esten disponibles los elementos
+        WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'div[style="display: block;"]')))\
+                .click()
+        # Obtener el total de preguntas
+        total=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[2]')
+        total=total.text
+        total=int(total)
+        print(total)
+        # Ciclar hasta terminar las preguntas
+        x=1
+        while x <= total:
+            WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'span.current')))\
+                .click()
+            actual=driver.find_element_by_xpath('//*[@id="footer"]/div/div/div[3]/div/span[1]')
+            actual=actual.text
+            actual=int(actual)
+            print(str(actual)+" / "+str(total))
+            if actual==x:
+                resultados = driver.find_element_by_xpath('/html/body/div[2]/div[3]/div/div[2]/div/div[2]/ol')
+                primer = resultados.find_elements(By.TAG_NAME,'li')
+                for e in primer:
+                    if e.get_attribute('innerHTML').find("distractor_") ==-1:
+                        inicio=e.get_attribute('innerHTML').find('d="')
+                        fin=e.get_attribute('innerHTML')[inicio+3:].find('"')
+                        idbuscar=e.get_attribute('innerHTML')[inicio+3:inicio+3+fin]
+                        print(idbuscar)
+                        buscarElemento='a['+idbuscar+'"]'
+                        b='a[data-answer-id="'+idbuscar+'"]'
+                        action = ActionChains(driver)
+                        source= e.find_element(By.CSS_SELECTOR,b)
+                        try:
+                            action.double_click(source).perform()
+                        except ElementNotInteractableException:
+                            print(b)
+                x+=1
+            else:
+                print("No avanza")
+        try:
+            WebDriverWait(driver,25)\
+                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+                .click()
+        except TimeoutException:
+            pass
+        finally:
+            pass
+        print(t2Actividad)
+    
+
 
 print("termino")
 # 
