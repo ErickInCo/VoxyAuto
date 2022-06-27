@@ -12,6 +12,7 @@ from selenium.common.exceptions import ElementClickInterceptedException
 
 
 import time
+import copy
 
 # ---------------------------------------------------------------Iniciar-----------------------------------------------
 # Opciones de navegación
@@ -154,7 +155,7 @@ while repetir:
                 if actual2!=actual:
                     x+=1
             try:
-                WebDriverWait(driver,t)\
+                WebDriverWait(driver,25)\
                     .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
                     .click()
             except TimeoutException:
@@ -230,14 +231,14 @@ while repetir:
                     x+=1
                 else:
                     print("No avanza")
-            try:
-                WebDriverWait(driver,t)\
-                    .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-                    .click()
-            except TimeoutException:
-                pass
-            finally:
-                pass
+            # try:
+            #     WebDriverWait(driver,t)\
+            #         .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+            #         .click()
+            # except TimeoutException:
+            #     pass
+            # finally:
+            #     pass
             print(t2Actividad)
             
         elif (t2Actividad=="Watch And Learn"): #checado 2
@@ -283,7 +284,7 @@ while repetir:
                 print(str(actual)+" / "+str(total)+ "  "+str(x))
                 if actual==x:
                     try:
-                        WebDriverWait(driver,30)\
+                        WebDriverWait(driver,40)\
                             .until(EC.element_to_be_clickable((By.CSS_SELECTOR,'a[data-correctness="true"]')))\
                             .click()
                     except StaleElementReferenceException:
@@ -302,7 +303,7 @@ while repetir:
                 if actual2!=actual:
                     x+=1
             try:
-                WebDriverWait(driver,t)\
+                WebDriverWait(driver,5)\
                     .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
                     .click()
             except (TimeoutException,ElementClickInterceptedException):
@@ -374,14 +375,14 @@ while repetir:
             else:
                 x-=1
 
-        try:
-            WebDriverWait(driver,t)\
-                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-                .click()
-        except TimeoutException:
-                pass
-        finally:
-            pass
+        # try:
+        #     WebDriverWait(driver,t)\
+        #         .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+        #         .click()
+        # except TimeoutException:
+        #         pass
+        # finally:
+        #     pass
         print(tActividad)
 
     elif (tActividad=="What Is It?" or t2Actividad=="What Is It?"): #checado 1
@@ -460,14 +461,14 @@ while repetir:
                 print("No avanza")
                 
                 
-        try:
-            WebDriverWait(driver,t)\
-                .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-                .click()
-        except TimeoutException:
-            pass
-        finally:
-            pass
+        # try:
+        #     WebDriverWait(driver,t)\
+        #         .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+        #         .click()
+        # except TimeoutException:
+        #     pass
+        # finally:
+        #     pass
         print(tActividad)
     elif (tActividad=="READING ACTIVITY"):
         
@@ -536,14 +537,14 @@ while repetir:
                     x+=1
                 else:
                     print("No avanza")
-            try:
-                WebDriverWait(driver,t)\
-                    .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-                    .click()
-            except TimeoutException:
-                pass
-            finally:
-                pass
+            # try:
+            #     WebDriverWait(driver,t)\
+            #         .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+            #         .click()
+            # except TimeoutException:
+            #     pass
+            # finally:
+            #     pass
             print(t2Actividad)
         elif (t2Actividad=="Read Out"): #checado
             # Iniciar la actividad
@@ -615,9 +616,39 @@ while repetir:
     elif (tActividad=="Picture Perfect" or t2Actividad=="Picture Perfect"):
         print(t2Actividad)
         x = input()
-    elif (tActividad=="Spellbreaker"):
+    elif (tActividad=="Spellbreaker" or t2Actividad=="Spellbreaker"):
         print(tActividad)
-        x = input()
+        print("Entro")
+        WebDriverWait(driver,t)\
+                .until(EC.element_to_be_clickable((By.XPATH,"/html/body/div[2]/div[3]/div/div[2]/div/div[1]/div/div[2]/button")))\
+                .click()
+        # activity-content
+        
+        
+        respuestas = driver.find_elements(By.CLASS_NAME,'word-line')
+        
+        todasresp=list()
+        for e in respuestas:
+            # print(e.get_attribute('innerHTML'))
+            palabra = e.get_attribute('innerHTML').split("/b>")
+            rpalabra=list()
+            solop=""
+            for f in palabra:
+                inicio= f.find('r="')
+                if inicio!=-1:
+                    print(f[inicio+3])
+                    solop+=copy.deepcopy(f[inicio+3])
+                    rpalabra.append(copy.deepcopy(f[inicio+3]))
+            # Waiting for the element to be clickable and then it is sending the text to the element.
+            # WebDriverWait(driver, tiempologin)\
+            #     .until(EC.element_to_be_clickable((By.CLASS_NAME,'activity-content')))\
+            #     .send_keys(rpalabra)
+            inputElement = driver.find_element_by_class_name("word-line")
+            inputElement.send_keys(solop)
+            todasresp.append(copy.deepcopy(rpalabra))
+            
+            
+
     elif (tActividad.find("Grammar")!=-1 or t2Actividad=="Fragmentstein"): #checado
         print(tActividad)
         # x = input()
@@ -685,14 +716,14 @@ while repetir:
                     x+=1
                 else:
                     print("No avanza")
-            try:
-                WebDriverWait(driver,t)\
-                    .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
-                    .click()
-            except TimeoutException:
-                pass
-            finally:
-                pass
+            # try:
+            #     WebDriverWait(driver,t)\
+            #         .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.next-button.btn.btn-primary.btn-large.hide.btn-shimmer.theme-primary-button.footer-right-side")))\
+            #         .click()
+            # except TimeoutException:
+            #     pass
+            # finally:
+            #     pass
             print(t2Actividad)
         
 
