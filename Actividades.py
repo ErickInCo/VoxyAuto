@@ -1,4 +1,5 @@
 from cgitb import reset
+from click import echo
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -33,7 +34,7 @@ time.sleep(1)
 # Inicializamos el navegador
 # ---------------------------------------------------------------Iniciar Sesion-----------------------------------------------
 driver.get('https://app.voxy.com/v2/#/home')
-tiempologin=25
+tiempologin=35
 t=10
 
 WebDriverWait(driver, tiempologin)\
@@ -57,14 +58,23 @@ WebDriverWait(driver,tiempologin)\
     .click()
 
 # unit_lesson_start
-# ---------------------------------------------------------------Seleccionar Primera actividad-----------------------------------------------
-# Seleccionar la actividad
-WebDriverWait(driver,tiempologin)\
-    .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button#unit_lesson_start")))\
-    .click()
+try:
+    WebDriverWait(driver,tiempologin)\
+        .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button#unit_lesson_start")))\
+        .click()
+except TimeoutException:
+    print("Error de tiempo o no hay boton")
 
 repetir =True
 while repetir:
+    # ---------------------------------------------------------------Seleccionar Primera actividad-----------------------------------------------
+    # Seleccionar la actividad
+    try:
+        WebDriverWait(driver,5)\
+            .until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button#unit_lesson_start")))\
+            .click()
+    except TimeoutException:
+        print("Error de tiempo o no hay boton")
 
     # Iniciar actividad
     # ---------------------------------------------------------------Iniciar Leccion-----------------------------------------------
@@ -619,10 +629,12 @@ while repetir:
     elif (tActividad=="Spellbreaker" or t2Actividad=="Spellbreaker"):
         print(tActividad)
         print("Entro")
-        WebDriverWait(driver,t)\
-                .until(EC.element_to_be_clickable((By.XPATH,"/html/body/div[2]/div[3]/div/div[2]/div/div[1]/div/div[2]/button")))\
-                .click()
-        # activity-content
+        try:
+            WebDriverWait(driver,t)\
+                    .until(EC.element_to_be_clickable((By.XPATH,"/html/body/div[2]/div[3]/div/div[2]/div/div[1]/div/div[2]/button")))\
+                    .click()
+        except TimeoutException:
+            pass    # activity-content
         
         
         respuestas = driver.find_elements(By.CLASS_NAME,'word-line')
@@ -643,9 +655,15 @@ while repetir:
             # WebDriverWait(driver, tiempologin)\
             #     .until(EC.element_to_be_clickable((By.CLASS_NAME,'activity-content')))\
             #     .send_keys(rpalabra)
-            inputElement = driver.find_element_by_class_name("word-line")
-            inputElement.send_keys(solop)
+            # inputElement = driver.find_element_by_class_name("activity-content")
+            # inputElement = driver.find_element_by_class_name("activity-module")
+            # inputElement = driver.find_element_by_class_name("activity-module-container span5")
+            # inputElement = driver.find_element_by_css_selector("div.row.in-activity")
+            # inputElement.send_keys(solop)
             todasresp.append(copy.deepcopy(rpalabra))
+
+        for x in todasresp:
+            print(''.join(x))
             
             
 
